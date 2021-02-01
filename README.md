@@ -1,5 +1,5 @@
 # OMIA
-Temporary space for the OMIA breed ontology, as we develop the ontology.
+Temporary space for the OMIA breed ontology, as we develop the ontology. _This is a work in progress_
 
 ## Intstructions for creation of OWL file using ROBOT template
 
