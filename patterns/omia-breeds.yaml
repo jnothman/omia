@@ -1,40 +1,36 @@
 pattern_name: omia-breeds
 
 description: >-
-    Pattern for specific breedss that are part of a species in OMIA ontology.
+    Pattern for specific breeds that are part of a species in OMIA ontology.
 
 classes:
-    acquired: MONDO:0021141
-
-    owl_thing: owl:Thing
+    breed: OMIA
+    cellular organisms: NCBITaxon:131567
 
 relations:
     in taxon: RO:0002162
 
 vars:
-    disease: owl_thing
+    breed: breed
+    species: NCBITaxon:131567
 
 name:
-    text: acquired %s
+    text: %s
     vars:
-      - disease
-
-annotations:
-  - annotationProperty: exact_synonym
-    text: acquired %s
-    vars:
-      - disease
+      - breed
 
 def:
-    text: An instance of %s that is acquired during the lifetime of the individual.
+    text: A %s is a breed of the %s species.
     vars:
-      - disease
+      - breed
+      - species
 
 equivalentTo:
-    text: "%s and 'has modifier' some 'acquired'"
+    text: "%s and 'in taxon' some '%s'"
     vars:
-      - disease
-      
+      - breed
+      - species
+
 contributors:
   - https://orcid.org/0000-0002-7356-1779
   - https://orcid.org/0000-0001-5208-3432

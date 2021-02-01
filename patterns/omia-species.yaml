@@ -10,22 +10,22 @@ relations:
     in taxon: RO:0002162
 
 vars:
-    organism: NCBITaxon:131567
+    species: NCBITaxon:131567
 
 name:
     text: %s
     vars:
-      - organism
+      - species
 
 def:
-    text: An instance of %s that is acquired during the lifetime of the individual.
+    text: An organism of the %s species.
     vars:
-      - disease
+      - species
 
 equivalentTo:
     text: "'in taxom' some '%s'"
     vars:
-      - organism
+      - species
 
 contributors:
   - https://orcid.org/0000-0002-7356-1779
