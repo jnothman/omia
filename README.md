@@ -14,7 +14,7 @@ _Updated 20201-02-01_
 7. do the same for FCI ID
 8. add lbo_id, venom_code, fci_id to respective columns
 9. make a new directory in my local files- omia-breeds.tsv and omia-species.tsv (create a new repo in nicolevasilevsky/omia) 
-10. create two patterns for these:
-omia-breeds.yaml
-omia-species.yaml
+10. create two patterns for these:  
+- omia-breeds.yaml
+- omia-species.yaml
 
