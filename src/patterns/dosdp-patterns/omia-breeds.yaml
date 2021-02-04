@@ -8,27 +8,26 @@ classes:
     cellular organisms: NCBITaxon:131567
 
 relations:
-    in taxon: RO:0002162
+    in_taxon: RO:0002162
 
 vars:
     breed: breed
-    species: NCBITaxon:131567
+    species: "'cellular organisms'"
 
 name:
-    text: %s
+    text: '%s'
     vars:
       - breed
 
 def:
-    text: A %s is a breed of the %s species.
+    text: 'A %s is a breed of the %s species.'
     vars:
       - breed
       - species
 
-equivalentTo:
-    text: "%s and 'in taxon' some '%s'"
+subClassOf:
+    text: "'in_taxon' some %s"
     vars:
-      - breed
       - species
 
 contributors:

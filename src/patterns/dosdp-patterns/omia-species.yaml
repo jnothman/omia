@@ -3,29 +3,14 @@ pattern_name: omia-species
 description: >-
     Pattern for species in OMIA ontology.
 
-classes:
-    cellular organisms: NCBITaxon:131567
+annotationProperties:
+  preferred_label: rdfs:label
 
-relations:
-    in taxon: RO:0002162
+anntotations:
+  - annotationProperty: preferred_label
 
 vars:
-    species: NCBITaxon:131567
-
-name:
-    text: %s
-    vars:
-      - species
-
-def:
-    text: An organism of the %s species.
-    vars:
-      - species
-
-equivalentTo:
-    text: "'in taxom' some '%s'"
-    vars:
-      - species
+  Thing: owl:Thing
 
 contributors:
   - https://orcid.org/0000-0002-7356-1779
