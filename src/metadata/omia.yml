@@ -1,0 +1,27 @@
+# PURL configuration for http://purl.obolibrary.org/obo/omia
+
+idspace: OMIA
+base_url: /obo/omia
+
+products:
+- omia.owl: https://raw.githubusercontent.com/monarch/omia-ontology/main/omia.owl
+- omia.obo: https://raw.githubusercontent.com/monarch/omia-ontology/main/omia.obo
+
+term_browser: ontobee
+example_terms:
+- OMIA_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/monarch/omia-ontology/v
+
+- prefix: /tracker/
+  replacement: https://github.com/monarch/omia-ontology/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/OMIA?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/monarch/omia-ontology/main/

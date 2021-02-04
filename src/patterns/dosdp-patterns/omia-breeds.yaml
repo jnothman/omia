@@ -4,7 +4,7 @@ description: >-
     Pattern for specific breeds that are part of a species in OMIA ontology.
 
 classes:
-    breed: OMIA
+    breed: owl:Thing
     cellular organisms: NCBITaxon:131567
 
 relations:
