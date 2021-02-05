@@ -1,0 +1,6544 @@
+format-version: 1.2
+data-version: omia/releases/2021-02-05/omia-base.owl
+ontology: omia/omia-base
+property_value: http://purl.org/dc/elements/1.1/description "None" xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "Online Inheritance of Animals Ontology" xsd:string
+property_value: http://purl.org/dc/elements/1.1/type IAO:8000001
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
+property_value: owl:versionInfo "2021-02-05" xsd:string
+
+[Term]
+id: NCBITaxon:10042
+property_value: prefLabel "North American deer mouse" xsd:string
+
+[Term]
+id: NCBITaxon:10152
+property_value: prefLabel "Short-tailed chinchilla" xsd:string
+
+[Term]
+id: NCBITaxon:30521
+property_value: prefLabel "Domestic Yak" xsd:string
+
+[Term]
+id: NCBITaxon:37174
+property_value: prefLabel "Bighorn Sheep" xsd:string
+
+[Term]
+id: NCBITaxon:8835
+property_value: prefLabel "Mallard duck" xsd:string
+
+[Term]
+id: NCBITaxon:8839
+property_value: prefLabel "Muscovy Duck (domestic type)" xsd:string
+
+[Term]
+id: NCBITaxon:8843
+property_value: prefLabel "Domestic goose" xsd:string
+
+[Term]
+id: NCBITaxon:8848
+property_value: prefLabel "Domestic goose" xsd:string
+
+[Term]
+id: NCBITaxon:8932
+property_value: prefLabel "Rock pigeon" xsd:string
+
+[Term]
+id: NCBITaxon:89462
+property_value: prefLabel "Water Buffalo" xsd:string
+
+[Term]
+id: NCBITaxon:9031
+property_value: prefLabel "Chicken" xsd:string
+
+[Term]
+id: NCBITaxon:9091
+property_value: prefLabel "Common quail" xsd:string
+
+[Term]
+id: NCBITaxon:9103
+property_value: prefLabel "Turkey" xsd:string
+
+[Term]
+id: NCBITaxon:9615
+property_value: prefLabel "Dog" xsd:string
+
+[Term]
+id: NCBITaxon:9685
+property_value: prefLabel "Domestic cat" xsd:string
+
+[Term]
+id: NCBITaxon:9793
+property_value: prefLabel "Ass" xsd:string
+
+[Term]
+id: NCBITaxon:9796
+property_value: prefLabel "Horse" xsd:string
+
+[Term]
+id: NCBITaxon:9823
+property_value: prefLabel "Pig" xsd:string
+
+[Term]
+id: NCBITaxon:9913
+property_value: prefLabel "Cattle" xsd:string
+
+[Term]
+id: NCBITaxon:9915
+property_value: prefLabel "Bos indicus" xsd:string
+
+[Term]
+id: NCBITaxon:9925
+property_value: prefLabel "Goat" xsd:string
+
+[Term]
+id: NCBITaxon:9939
+property_value: prefLabel "Ovis spp." xsd:string
+
+[Term]
+id: NCBITaxon:9940
+property_value: prefLabel "Sheep" xsd:string
+
+[Term]
+id: NCBITaxon:9986
+property_value: prefLabel "Rabbit" xsd:string
+
+[Term]
+id: OMIA:00000000
+name: root node
+
+[Term]
+id: OMIA:1
+name: Nubian
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000958 xsd:string
+
+[Term]
+id: OMIA:10
+name: Wire-haired dachshund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13961" xsd:string
+
+[Term]
+id: OMIA:100
+name: Red Spotted Czech
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1000
+name: Highland
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000129 xsd:string
+
+[Term]
+id: OMIA:1001
+name: Eskimo Spitz
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:1002
+name: Chinese Xingyi
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1003
+name: Japanese game fowl
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1004
+name: Trakehner
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000913 xsd:string
+property_value: venom_code "79273" xsd:string
+
+[Term]
+id: OMIA:1005
+name: Morgan
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000843 xsd:string
+property_value: venom_code "79196" xsd:string
+
+[Term]
+id: OMIA:1006
+name: American Miniature Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79031" xsd:string
+
+[Term]
+id: OMIA:1007
+name: Old-Tori
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000912 xsd:string
+
+[Term]
+id: OMIA:1008
+name: Bama miniature
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:1009
+name: Mongolian Turano
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:101
+name: Kerry
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000153 xsd:string
+
+[Term]
+id: OMIA:1010
+name: Camarillo White Horse
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1011
+name: Japanese Draft
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1012
+name: Welsh Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000919 xsd:string
+property_value: venom_code "79279" xsd:string
+
+[Term]
+id: OMIA:1013
+name: Noriker
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1014
+name: Gipsy
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1015
+name: South German Draft
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1016
+name: Swiss Warmblood
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000932 xsd:string
+property_value: venom_code "79263" xsd:string
+
+[Term]
+id: OMIA:1017
+name: Phal̬ne
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14516" xsd:string
+
+[Term]
+id: OMIA:1018
+name: Thai Ridgeback
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "338" xsd:string
+property_value: venom_code "14635" xsd:string
+
+[Term]
+id: OMIA:1019
+name: Netherland Dwarf
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18609" xsd:string
+
+[Term]
+id: OMIA:102
+name: Karakul
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000531 xsd:string
+
+[Term]
+id: OMIA:1020
+name: Loh
+relationship: RO:0002162 NCBITaxon:9986
+
+[Term]
+id: OMIA:1021
+name: Lionhead Dwarf
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18584" xsd:string
+
+[Term]
+id: OMIA:1022
+name: Danish Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1023
+name: Miniature Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79188" xsd:string
+
+[Term]
+id: OMIA:1024
+name: Italian Greyhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14047" xsd:string
+
+[Term]
+id: OMIA:1025
+name: Large Munster-lander
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14563" xsd:string
+
+[Term]
+id: OMIA:1026
+name: Glen of Imaal Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15005" xsd:string
+
+[Term]
+id: OMIA:1027
+name: Saarloo
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22425" xsd:string
+
+[Term]
+id: OMIA:1028
+name: Czechoslovakian wolfdog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19071" xsd:string
+
+[Term]
+id: OMIA:1029
+name: Swedish Briard 
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:103
+name: Belmont Red
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000045 xsd:string
+
+[Term]
+id: OMIA:1030
+name: Plott Hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14202" xsd:string
+
+[Term]
+id: OMIA:1031
+name: New Zealand Huntaway dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14721" xsd:string
+
+[Term]
+id: OMIA:1033
+name: German Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1034
+name: Swiss Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1035
+name: Friesian-Jersey mosaic
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1036
+name: American Brown Swiss
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1037
+name: Beef Booster Composite
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1038
+name: Booroola
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000445 xsd:string
+
+[Term]
+id: OMIA:1039
+name: Brazilian Santa In̻s
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000609 xsd:string
+
+[Term]
+id: OMIA:104
+name: Bernese Mountain dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14443" xsd:string
+
+[Term]
+id: OMIA:1040
+name: Norwegian breeds
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1041
+name: Bashkir Curly Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000739 xsd:string
+
+[Term]
+id: OMIA:1042
+name: Fell Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000782 xsd:string
+property_value: venom_code "79119" xsd:string
+
+[Term]
+id: OMIA:1043
+name: Dales Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000765 xsd:string
+property_value: venom_code "79103" xsd:string
+
+[Term]
+id: OMIA:1044
+name: Pinto Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000870 xsd:string
+property_value: venom_code "79226" xsd:string
+
+[Term]
+id: OMIA:1045
+name: Knabstrupper
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000822 xsd:string
+property_value: venom_code "79174" xsd:string
+
+[Term]
+id: OMIA:1046
+name: Pony of the Americas
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000872 xsd:string
+
+[Term]
+id: OMIA:1047
+name: British Spotted Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79077" xsd:string
+
+[Term]
+id: OMIA:1048
+name: Australian Spotted Pony
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1049
+name: Peruvian Paso
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000866 xsd:string
+
+[Term]
+id: OMIA:105
+name: Ayrshire
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000029 xsd:string
+
+[Term]
+id: OMIA:1050
+name: Wisconsin hypoalpha mutant (WHAM)
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1051
+name: Connecticut (CT) strain
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1052
+name: S2 line
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1053
+name: Fayoumi eplipeptic strain
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1054
+name: Huiyang Bearded
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1055
+name: NH-413 strain
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1056
+name: OPN strain
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1057
+name: Polymorphic Nucleolar (PNU) strain
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1058
+name: ISA Brown
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1059
+name: Lohmann Brown
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:106
+name: Brown Swiss
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000063 xsd:string
+
+[Term]
+id: OMIA:1060
+name: Marans
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1061
+name: TETRA
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1062
+name: Transylvanian naked neck
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000320 xsd:string
+
+[Term]
+id: OMIA:1063
+name: Beijing You
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1064
+name: German Hunting Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15004" xsd:string
+
+[Term]
+id: OMIA:1065
+name: Limonero
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1066
+name: Appenzeller Barthuhn
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000275 xsd:string
+
+[Term]
+id: OMIA:1067
+name: Miniature Bull Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14992" xsd:string
+
+[Term]
+id: OMIA:1068
+name: Commercial lines
+relationship: RO:0002162 NCBITaxon:9103
+
+[Term]
+id: OMIA:1069
+name: Polski Owczarek Nizinny
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:107
+name: Dairy Shorthorn
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000182 xsd:string
+
+[Term]
+id: OMIA:1070
+name: Polski Owczarek Podhalanski
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14725" xsd:string
+
+[Term]
+id: OMIA:1071
+name: FH-r strain
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:1072
+name: Lipizzan
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000827 xsd:string
+property_value: venom_code "79180" xsd:string
+
+[Term]
+id: OMIA:1073
+name: Rouge-des-Pr̩s
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1074
+name: Irish soft-coated wheaten terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22414" xsd:string
+
+[Term]
+id: OMIA:1075
+name: Schnauzer-Beagle cross
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:1076
+name: Normand
+relationship: RO:0002162 NCBITaxon:9793
+
+[Term]
+id: OMIA:1077
+name: miniature donkey
+relationship: RO:0002162 NCBITaxon:9793
+
+[Term]
+id: OMIA:1078
+name: Miniature
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000837 xsd:string
+
+[Term]
+id: OMIA:1079
+name: Miniature American Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22605" xsd:string
+
+[Term]
+id: OMIA:108
+name: Pietrain
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000395 xsd:string
+
+[Term]
+id: OMIA:1080
+name: Italian Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1081
+name: Italian Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1082
+name: Belgian draft horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79063" xsd:string
+
+[Term]
+id: OMIA:1083
+name: American Bully
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:1084
+name: Galgo Espa̱ol
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14072" xsd:string
+
+[Term]
+id: OMIA:1085
+name: Magyar Ag��r
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14046" xsd:string
+
+[Term]
+id: OMIA:1086
+name: Komondor
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14317" xsd:string
+
+[Term]
+id: OMIA:1087
+name: German Angus
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000111 xsd:string
+
+[Term]
+id: OMIA:1088
+name: American Bashkir Curly horse
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1089
+name: Missouri Foxtrotter
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000839 xsd:string
+
+[Term]
+id: OMIA:1090
+name: American Akita
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13639" xsd:string
+
+[Term]
+id: OMIA:1091
+name: French Bulldog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13768" xsd:string
+
+[Term]
+id: OMIA:1092
+name: Wyandotte
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000336 xsd:string
+
+[Term]
+id: OMIA:1093
+name: Orpington
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000323 xsd:string
+
+[Term]
+id: OMIA:1094
+name: Miniature Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1095
+name: Scottish Highland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1096
+name: American Hairless Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14951" xsd:string
+
+[Term]
+id: OMIA:1097
+name: Spanish horse
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1098
+name: Standardbred �� Tennessee Walking Horse cross
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1099
+name: Purebred Spanish horse
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:11
+name: German Shepherd Dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14796" xsd:string
+
+[Term]
+id: OMIA:110
+name: Shetland Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000890 xsd:string
+property_value: venom_code "79246" xsd:string
+
+[Term]
+id: OMIA:1100
+name: Alpine Dachsbracke
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13928" xsd:string
+
+[Term]
+id: OMIA:1101
+name: Spanish greyhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "285" xsd:string
+property_value: venom_code "14072" xsd:string
+
+[Term]
+id: OMIA:1102
+name: Petit Basset Griffon Vend̩en
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14075" xsd:string
+
+[Term]
+id: OMIA:1103
+name: Kurilian Bobtail
+relationship: RO:0002162 NCBITaxon:9685
+property_value: fci_id "15291" xsd:string
+property_value: venom_code "15290" xsd:string
+
+[Term]
+id: OMIA:1104
+name: Northern Inuit Dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14283" xsd:string
+
+[Term]
+id: OMIA:1105
+name: Gute
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000511 xsd:string
+
+[Term]
+id: OMIA:1106
+name: V�_rmland
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1107
+name: Helsinge
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1108
+name: Kl̦vsj̦
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1109
+name: Massese
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000553 xsd:string
+
+[Term]
+id: OMIA:111
+name: Finnsheep
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000495 xsd:string
+
+[Term]
+id: OMIA:1111
+name: Tux-Zillertaler
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1112
+name: Slovenian Cika
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000245 xsd:string
+
+[Term]
+id: OMIA:1113
+name: British Gloucester
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1114
+name: Spanish Berrenda en negro
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000048 xsd:string
+
+[Term]
+id: OMIA:1115
+name: Eringer
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1116
+name: Evol̬ner
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000099 xsd:string
+
+[Term]
+id: OMIA:1117
+name: French Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1118
+name: Valais Red
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1119
+name: Standard Schnauzer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14673" xsd:string
+
+[Term]
+id: OMIA:112
+name: Dorset Horn
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1120
+name: Cinta Senese
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:1121
+name: Mexican Pelibuey
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1122
+name: Gypsy
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1123
+name: Istrian Pramenka
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1124
+name: Mie-Jidori
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1125
+name: Tennessee Walking Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000907 xsd:string
+property_value: venom_code "79265" xsd:string
+
+[Term]
+id: OMIA:1126
+name: Norwegian Dairy Goat
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:1127
+name: Synthetic
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:1128
+name: Altay
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000419 xsd:string
+
+[Term]
+id: OMIA:1129
+name: Australian Kelpie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13675" xsd:string
+
+[Term]
+id: OMIA:113
+name: Thoroughbred
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000910 xsd:string
+property_value: venom_code "79269" xsd:string
+
+[Term]
+id: OMIA:1130
+name: Pyrenean Mountain Dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14448" xsd:string
+
+[Term]
+id: OMIA:1131
+name: Pit Bull Terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:1132
+name: Australian Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19061" xsd:string
+
+[Term]
+id: OMIA:1133
+name: Braque du Bourbonnais
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14529" xsd:string
+
+[Term]
+id: OMIA:1134
+name: Dera Din Panah
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000976 xsd:string
+
+[Term]
+id: OMIA:1135
+name: Nachi
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0001005 xsd:string
+
+[Term]
+id: OMIA:1136
+name: Kamori
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000997 xsd:string
+
+[Term]
+id: OMIA:1137
+name: Yakutian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1138
+name: Gurtenvieh
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1139
+name: Lakenvelder
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000312 xsd:string
+
+[Term]
+id: OMIA:114
+name: Sardinian
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:1140
+name: Gang
+relationship: RO:0002162 NCBITaxon:8843
+
+[Term]
+id: OMIA:1141
+name: Pak angora
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:1142
+name: Uckerm�_rker
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1145
+name: Danish Landrace
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000479 xsd:string
+
+[Term]
+id: OMIA:1146
+name: Girgentana
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:1147
+name: Appenzell
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000960 xsd:string
+
+[Term]
+id: OMIA:1148
+name: Grisons Striped
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000984 xsd:string
+
+[Term]
+id: OMIA:1149
+name: Chamois Colored
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:115
+name: Yorkshire
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000338 xsd:string
+
+[Term]
+id: OMIA:1150
+name: St. Gallen Booted
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000970 xsd:string
+
+[Term]
+id: OMIA:1151
+name: Peacock
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0001009 xsd:string
+
+[Term]
+id: OMIA:1152
+name: Bezoar
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:1153
+name: American English Coonhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13887" xsd:string
+
+[Term]
+id: OMIA:1154
+name: Danish-Swedish farmdog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13964" xsd:string
+
+[Term]
+id: OMIA:1155
+name: Ural Rex
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:1156
+name: Domestic medium-haired
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15272" xsd:string
+
+[Term]
+id: OMIA:1157
+name: Hungarian pumi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14247" xsd:string
+
+[Term]
+id: OMIA:1158
+name: Hungarian mudi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14246" xsd:string
+
+[Term]
+id: OMIA:1159
+name: Lykoi
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:116
+name: White Leghorn
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1160
+name: Munchkin
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "18098" xsd:string
+
+[Term]
+id: OMIA:1161
+name: Swiss Large White
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:1162
+name: Australian Labradoodle
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22542" xsd:string
+
+[Term]
+id: OMIA:1163
+name: Zwartbles
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:1164
+name: Berber
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:1165
+name: Dutch Shepherd dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14793" xsd:string
+
+[Term]
+id: OMIA:1166
+name: Belgian Blue�ېHolstein cross
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:1167
+name: Yimeng
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:1168
+name: Yucatan miniature pig
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:1169
+name: Mangalitza
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000380 xsd:string
+
+[Term]
+id: OMIA:117
+name: Black Minorca
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:118
+name: South Devon
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000246 xsd:string
+
+[Term]
+id: OMIA:119
+name: Bonsmara
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000054 xsd:string
+
+[Term]
+id: OMIA:120
+name: Santa Gertrudis
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000234 xsd:string
+
+[Term]
+id: OMIA:121
+name: Nguni
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000195 xsd:string
+
+[Term]
+id: OMIA:122
+name: Meuse Rhine Yssel
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000179 xsd:string
+
+[Term]
+id: OMIA:123
+name: Tsigai
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:124
+name: Suffolk
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000632 xsd:string
+
+[Term]
+id: OMIA:125
+name: Targhee
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000638 xsd:string
+
+[Term]
+id: OMIA:126
+name: St Croix
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000628 xsd:string
+
+[Term]
+id: OMIA:127
+name: Barbados
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000433 xsd:string
+
+[Term]
+id: OMIA:128
+name: White British
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000062 xsd:string
+
+[Term]
+id: OMIA:129
+name: Black Pied Danish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:13
+name: collie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13879" xsd:string
+
+[Term]
+id: OMIA:130
+name: Greenleg
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:131
+name: Swedish Red and White 
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:132
+name: Standardbred
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000900 xsd:string
+property_value: venom_code "79257" xsd:string
+
+[Term]
+id: OMIA:133
+name: Quarter
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000878 xsd:string
+property_value: venom_code "79232" xsd:string
+
+[Term]
+id: OMIA:134
+name: Arabian
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000726 xsd:string
+property_value: venom_code "79049" xsd:string
+
+[Term]
+id: OMIA:135
+name: Percheron
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000865 xsd:string
+property_value: venom_code "79224" xsd:string
+
+[Term]
+id: OMIA:136
+name: Clydesdale
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000760 xsd:string
+property_value: venom_code "79090" xsd:string
+
+[Term]
+id: OMIA:137
+name: Texel
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000640 xsd:string
+
+[Term]
+id: OMIA:138
+name: Leicester
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:139
+name: Oxforddown
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:14
+name: Siberian Husky
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "270" xsd:string
+property_value: venom_code "14275" xsd:string
+
+[Term]
+id: OMIA:140
+name: Shropshire
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000614 xsd:string
+
+[Term]
+id: OMIA:141
+name: Marsh
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:142
+name: Spotted Mountain
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:143
+name: Brown German
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:144
+name: Yellow Hill
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:145
+name: Pinzgau
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:146
+name: Welsh
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000407 xsd:string
+
+[Term]
+id: OMIA:147
+name: Wessex
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:148
+name: Coopworth
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000469 xsd:string
+
+[Term]
+id: OMIA:149
+name: Saint Bernard
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19047" xsd:string
+
+[Term]
+id: OMIA:15
+name: Belgian
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000741 xsd:string
+
+[Term]
+id: OMIA:150
+name: Dachshund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13952" xsd:string
+
+[Term]
+id: OMIA:151
+name: Banteng (Bali)
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:152
+name: Lacombe
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000375 xsd:string
+
+[Term]
+id: OMIA:153
+name: Shortcoated Setter
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:154
+name: Cavalier King Charles Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14844" xsd:string
+
+[Term]
+id: OMIA:155
+name: Belgian White and Blue Pied
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:156
+name: Alsation
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:157
+name: Rhodesian Ridgeback
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14634" xsd:string
+
+[Term]
+id: OMIA:158
+name: Tuli
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000257 xsd:string
+
+[Term]
+id: OMIA:159
+name: Manguni
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:16
+name: Quarter Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000878 xsd:string
+property_value: venom_code "79232" xsd:string
+
+[Term]
+id: OMIA:160
+name: Mashona
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000176 xsd:string
+
+[Term]
+id: OMIA:161
+name: Siamese
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15326" xsd:string
+
+[Term]
+id: OMIA:162
+name: Montbeliarde
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000186 xsd:string
+
+[Term]
+id: OMIA:163
+name: Podolian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:164
+name: Apulian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:165
+name: Perendale
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000575 xsd:string
+
+[Term]
+id: OMIA:166
+name: Hariana
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000124 xsd:string
+
+[Term]
+id: OMIA:167
+name: Fleckvieh
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000941 xsd:string
+
+[Term]
+id: OMIA:168
+name: British White Park
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:169
+name: Braford
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000057 xsd:string
+
+[Term]
+id: OMIA:17
+name: Hereford
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000127 xsd:string
+
+[Term]
+id: OMIA:170
+name: Alaskan Malamute
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13642" xsd:string
+
+[Term]
+id: OMIA:171
+name: Grauvieh
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:172
+name: Miniature Poodle
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14593" xsd:string
+
+[Term]
+id: OMIA:173
+name: Old English Sheepdog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14723" xsd:string
+
+[Term]
+id: OMIA:174
+name: Alpine Grey
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:175
+name: Hampshire
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000512 xsd:string
+
+[Term]
+id: OMIA:176
+name: Red Angus
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000214 xsd:string
+
+[Term]
+id: OMIA:177
+name: Afrikaner
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000005 xsd:string
+
+[Term]
+id: OMIA:178
+name: West Highland White Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "85" xsd:string
+property_value: venom_code "15086" xsd:string
+
+[Term]
+id: OMIA:179
+name: Dalmatian
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13962" xsd:string
+
+[Term]
+id: OMIA:18
+name: Galloway
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000106 xsd:string
+
+[Term]
+id: OMIA:180
+name: Vendee
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:181
+name: Manx
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "18096" xsd:string
+
+[Term]
+id: OMIA:182
+name: Basset Hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14129" xsd:string
+
+[Term]
+id: OMIA:183
+name: Langhe
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000538 xsd:string
+
+[Term]
+id: OMIA:184
+name: English Setter
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14677" xsd:string
+
+[Term]
+id: OMIA:185
+name: Devon
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000087 xsd:string
+
+[Term]
+id: OMIA:186
+name: Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14839" xsd:string
+
+[Term]
+id: OMIA:187
+name: Poodle
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19045" xsd:string
+
+[Term]
+id: OMIA:188
+name: Angoni
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:189
+name: Dala
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000474 xsd:string
+
+[Term]
+id: OMIA:19
+name: Charolais
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000073 xsd:string
+
+[Term]
+id: OMIA:190
+name: Rygja
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000605 xsd:string
+
+[Term]
+id: OMIA:191
+name: Cheviot
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000461 xsd:string
+
+[Term]
+id: OMIA:192
+name: Lincoln
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000542 xsd:string
+
+[Term]
+id: OMIA:193
+name: Welsh Mountain
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000660 xsd:string
+
+[Term]
+id: OMIA:194
+name: South Hampshire
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:195
+name: Abyssinian
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15238" xsd:string
+
+[Term]
+id: OMIA:196
+name: Pomeranian
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14591" xsd:string
+
+[Term]
+id: OMIA:197
+name: Australian Illawarra Shorthorn
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:198
+name: Greyhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14040" xsd:string
+
+[Term]
+id: OMIA:199
+name: English Pointer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14530" xsd:string
+
+[Term]
+id: OMIA:2
+name: Staffordshire Bull Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "76" xsd:string
+property_value: venom_code "15076" xsd:string
+
+[Term]
+id: OMIA:20
+name: Corgi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15123" xsd:string
+
+[Term]
+id: OMIA:200
+name: Light Brown Leghorn
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:201
+name: Burmese
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15258" xsd:string
+
+[Term]
+id: OMIA:202
+name: Romagna
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:203
+name: Pied Hungarian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:204
+name: Vorderwald
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0001063 xsd:string
+
+[Term]
+id: OMIA:205
+name: Hinterwalder
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000130 xsd:string
+
+[Term]
+id: OMIA:206
+name: Red
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:207
+name: Red and White
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:208
+name: Black Pied Swiss
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:209
+name: Franconian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:21
+name: Cardigan Welsh Corgi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15124" xsd:string
+
+[Term]
+id: OMIA:210
+name: Shetland Sheepdog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14729" xsd:string
+
+[Term]
+id: OMIA:211
+name: Chianina
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000074 xsd:string
+
+[Term]
+id: OMIA:212
+name: Basenji
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13678" xsd:string
+
+[Term]
+id: OMIA:213
+name: Afghan Hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14121" xsd:string
+
+[Term]
+id: OMIA:214
+name: Bedlington Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14957" xsd:string
+
+[Term]
+id: OMIA:215
+name: Wirehaired Fox Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "169" xsd:string
+property_value: venom_code "15003" xsd:string
+
+[Term]
+id: OMIA:216
+name: Alai Fat Rumped
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000414 xsd:string
+
+[Term]
+id: OMIA:217
+name: Saraja
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:218
+name: Schwarzbunt
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0001079 xsd:string
+
+[Term]
+id: OMIA:219
+name: Kazakh Finewool
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:22
+name: Himalayan
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15285" xsd:string
+
+[Term]
+id: OMIA:220
+name: Holsteiner
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000804 xsd:string
+property_value: venom_code "79151" xsd:string
+
+[Term]
+id: OMIA:221
+name: Piedmont
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:222
+name: Southdown
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000624 xsd:string
+
+[Term]
+id: OMIA:223
+name: Fulani
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:224
+name: Maure
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:225
+name: Bororo
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:226
+name: Brazilian Somali
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000450 xsd:string
+
+[Term]
+id: OMIA:227
+name: Morada Nova
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000560 xsd:string
+
+[Term]
+id: OMIA:228
+name: Santa Ines
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000609 xsd:string
+
+[Term]
+id: OMIA:229
+name: Bavarian Allgau
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:23
+name: Soft Coated Wheaten Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15075" xsd:string
+
+[Term]
+id: OMIA:230
+name: Murciana Granadina
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:231
+name: Black Pied Lowland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:232
+name: Barotse
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:233
+name: Tonga
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:234
+name: Black Japanese
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:235
+name: Golden Retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14609" xsd:string
+
+[Term]
+id: OMIA:236
+name: Black and White Dutch
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:237
+name: Red and White Dutch
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:238
+name: German Brown
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:239
+name: Grey Collie
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:24
+name: Brahman
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000058 xsd:string
+
+[Term]
+id: OMIA:240
+name: English Bulldog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13765" xsd:string
+
+[Term]
+id: OMIA:241
+name: Nilagiri
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:242
+name: Red Irish Setter
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14679" xsd:string
+
+[Term]
+id: OMIA:243
+name: Red Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:244
+name: Scottish Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15049" xsd:string
+
+[Term]
+id: OMIA:245
+name: Sebright
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:246
+name: Podolian Grey Steppe
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:247
+name: Gotland
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000507 xsd:string
+
+[Term]
+id: OMIA:248
+name: Wensleydown
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:249
+name: Avilena
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:25
+name: Tasmanian Merino
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:250
+name: Lowland Swedish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:251
+name: Cairn Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14993" xsd:string
+
+[Term]
+id: OMIA:252
+name: Ala Tau
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:253
+name: Whiteheaded Kazakh
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0001078 xsd:string
+
+[Term]
+id: OMIA:254
+name: Nile
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:255
+name: Polled Shorthorn?
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:256
+name: Pitangueiras
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:257
+name: Salers
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000230 xsd:string
+
+[Term]
+id: OMIA:258
+name: Dalmatian Coach Hound
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:259
+name: Oxford
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000571 xsd:string
+
+[Term]
+id: OMIA:26
+name: Rambouillet
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000591 xsd:string
+
+[Term]
+id: OMIA:260
+name: Ile de France
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000524 xsd:string
+
+[Term]
+id: OMIA:261
+name: Jamunapari
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:262
+name: Barbari
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000964 xsd:string
+
+[Term]
+id: OMIA:263
+name: Tarentaise
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000251 xsd:string
+
+[Term]
+id: OMIA:264
+name: Chillingham
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:265
+name: Bulldog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13759" xsd:string
+
+[Term]
+id: OMIA:266
+name: Tamworth
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000402 xsd:string
+
+[Term]
+id: OMIA:268
+name: Doberman Pincher
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:269
+name: N'dama
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000193 xsd:string
+
+[Term]
+id: OMIA:27
+name: Afikander
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000005 xsd:string
+
+[Term]
+id: OMIA:270
+name: Moscow
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:271
+name: White Plymouth Rock
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:272
+name: Cornish
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000290 xsd:string
+
+[Term]
+id: OMIA:273
+name: Pashmina
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:274
+name: Walker Hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13913" xsd:string
+
+[Term]
+id: OMIA:275
+name: Galway
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:276
+name: Airedale Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14929" xsd:string
+
+[Term]
+id: OMIA:277
+name: Blackhead Persian
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001069 xsd:string
+
+[Term]
+id: OMIA:278
+name: Standard Poodle
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14594" xsd:string
+
+[Term]
+id: OMIA:279
+name: Leghorn
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000315 xsd:string
+
+[Term]
+id: OMIA:28
+name: Bengal
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15250" xsd:string
+
+[Term]
+id: OMIA:280
+name: Rhode Island Red
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000327 xsd:string
+
+[Term]
+id: OMIA:281
+name: Muzaffarnagari
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001085 xsd:string
+
+[Term]
+id: OMIA:282
+name: Weimaraner
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15122" xsd:string
+
+[Term]
+id: OMIA:283
+name: Kumauni Hill
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:284
+name: Toggenburg
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0001026 xsd:string
+
+[Term]
+id: OMIA:285
+name: Magra
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:286
+name: Flemisch
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:287
+name: Swedish Lowland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:288
+name: Black and White German
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:289
+name: Red and White Westphalian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:29
+name: West Highland White terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "85" xsd:string
+property_value: venom_code "15086" xsd:string
+
+[Term]
+id: OMIA:290
+name: Nganda
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:291
+name: Barrosa
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:292
+name: Irish Setter
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22597" xsd:string
+
+[Term]
+id: OMIA:293
+name: Shetland
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000890 xsd:string
+property_value: venom_code "79246" xsd:string
+
+[Term]
+id: OMIA:294
+name: Romanovsky
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:295
+name: Blue Faced Maine
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000442 xsd:string
+
+[Term]
+id: OMIA:296
+name: Newfoundland
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "79208" xsd:string
+
+[Term]
+id: OMIA:297
+name: Broad Breasted White
+relationship: RO:0002162 NCBITaxon:9103
+
+[Term]
+id: OMIA:298
+name: Fox Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14999" xsd:string
+
+[Term]
+id: OMIA:299
+name: Bavarian Grey Iskur
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:3
+name: Simmental
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000243 xsd:string
+
+[Term]
+id: OMIA:30
+name: Maltese Terriers
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:300
+name: Fribourg
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:301
+name: Sindhi
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:302
+name: Sahiwal
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000229 xsd:string
+
+[Term]
+id: OMIA:303
+name: Brittany Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22569" xsd:string
+
+[Term]
+id: OMIA:304
+name: Murnau Werdenfelser
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:305
+name: Australian Cattle Dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13833" xsd:string
+
+[Term]
+id: OMIA:306
+name: Chihuahua
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "7347" xsd:string
+
+[Term]
+id: OMIA:307
+name: Chow Chow
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13876" xsd:string
+
+[Term]
+id: OMIA:308
+name: Norwegian buhund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14722" xsd:string
+
+[Term]
+id: OMIA:309
+name: Red Pied Aosta
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:31
+name: Japanese Black
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:310
+name: White Wyandotte
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:311
+name: Irish Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15008" xsd:string
+
+[Term]
+id: OMIA:312
+name: Sheepdog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14683" xsd:string
+
+[Term]
+id: OMIA:313
+name: Kerry Blue Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15032" xsd:string
+
+[Term]
+id: OMIA:314
+name: Black Welsh
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:315
+name: Murboden
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000188 xsd:string
+
+[Term]
+id: OMIA:316
+name: Toy Griffon
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:317
+name: Black Pied German
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:318
+name: Jiaxing
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:319
+name: Laconie
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:32
+name: Bull Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14965" xsd:string
+
+[Term]
+id: OMIA:320
+name: Devon Rex
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15269" xsd:string
+
+[Term]
+id: OMIA:321
+name: Chester White
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000354 xsd:string
+
+[Term]
+id: OMIA:322
+name: Grivette
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:323
+name: Solognot
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:324
+name: Vendeen
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000654 xsd:string
+
+[Term]
+id: OMIA:325
+name: Schipperke
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14650" xsd:string
+
+[Term]
+id: OMIA:326
+name: Murray Grey
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000189 xsd:string
+
+[Term]
+id: OMIA:327
+name: Border Collie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13883" xsd:string
+
+[Term]
+id: OMIA:328
+name: Yorkshire Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "86" xsd:string
+property_value: venom_code "15087" xsd:string
+
+[Term]
+id: OMIA:329
+name: Saluke
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:33
+name: Waygu
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000267 xsd:string
+
+[Term]
+id: OMIA:330
+name: Japanese Brown
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:331
+name: Sokolka
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:332
+name: New Hampshire
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000321 xsd:string
+
+[Term]
+id: OMIA:333
+name: Red Bulgarian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:334
+name: Minnesota
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:335
+name: Blue and White Belgian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:336
+name: Racing Homer
+relationship: RO:0002162 NCBITaxon:8932
+
+[Term]
+id: OMIA:337
+name: White Carneau
+relationship: RO:0002162 NCBITaxon:8932
+
+[Term]
+id: OMIA:338
+name: Assaf
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001062 xsd:string
+
+[Term]
+id: OMIA:339
+name: Great Dane
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14037" xsd:string
+
+[Term]
+id: OMIA:34
+name: German Pie
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:340
+name: Ancona
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000273 xsd:string
+
+[Term]
+id: OMIA:341
+name: Brown Leghorn
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:342
+name: Brown Italian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:343
+name: Wallachian
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:344
+name: Cigaja
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:345
+name: Keeshond
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14312" xsd:string
+
+[Term]
+id: OMIA:346
+name: West Highland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:347
+name: Central Belgian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:348
+name: Upper Belgian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:349
+name: Toy Poodle
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14595" xsd:string
+
+[Term]
+id: OMIA:35
+name: Finnish Landrace
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:350
+name: Elkhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13993" xsd:string
+
+[Term]
+id: OMIA:351
+name: Najdi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:352
+name: Hejazi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:353
+name: White Fulani
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:354
+name: Columbia
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000466 xsd:string
+
+[Term]
+id: OMIA:355
+name: Black Castilian
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:356
+name: Barred Utreranian
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:357
+name: Silky Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15073" xsd:string
+
+[Term]
+id: OMIA:358
+name: Hyfer
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:359
+name: Border Leicester
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000446 xsd:string
+
+[Term]
+id: OMIA:36
+name: Dexter
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000088 xsd:string
+
+[Term]
+id: OMIA:360
+name: Airedale
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:361
+name: Australian Friesian Sahiwal
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000026 xsd:string
+
+[Term]
+id: OMIA:362
+name: Malvi
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000171 xsd:string
+
+[Term]
+id: OMIA:363
+name: Khillar
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000155 xsd:string
+
+[Term]
+id: OMIA:364
+name: Krankrej
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:365
+name: Dangi
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000083 xsd:string
+
+[Term]
+id: OMIA:366
+name: Red Japanese
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:367
+name: Normandy
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:368
+name: Crioula Lanada
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:369
+name: Crioula
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:37
+name: Scottish Fold
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "18102" xsd:string
+
+[Term]
+id: OMIA:370
+name: Lacha
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:371
+name: Giant Schnauzer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14671" xsd:string
+
+[Term]
+id: OMIA:372
+name: Drenthe
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:373
+name: Chincilla
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15265" xsd:string
+
+[Term]
+id: OMIA:374
+name: Merinolandschaf
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000557 xsd:string
+
+[Term]
+id: OMIA:375
+name: Wuttemberg Merino
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:376
+name: Leine
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:377
+name: Persian
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "18760" xsd:string
+
+[Term]
+id: OMIA:378
+name: Doberman
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:379
+name: Norwegian Elkhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13994" xsd:string
+
+[Term]
+id: OMIA:38
+name: Schnauzer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19049" xsd:string
+
+[Term]
+id: OMIA:380
+name: Yorkshire terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "86" xsd:string
+property_value: venom_code "15087" xsd:string
+
+[Term]
+id: OMIA:381
+name: Chinese Shar-Pei
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13873" xsd:string
+
+[Term]
+id: OMIA:382
+name: Dobermann
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:383
+name: Australorp
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000279 xsd:string
+
+[Term]
+id: OMIA:384
+name: Tibetan Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "209" xsd:string
+property_value: venom_code "15083" xsd:string
+
+[Term]
+id: OMIA:385
+name: Sur
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:386
+name: Red Setter
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:387
+name: Labrador
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14631" xsd:string
+
+[Term]
+id: OMIA:388
+name: Retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14604" xsd:string
+
+[Term]
+id: OMIA:389
+name: Rough Collie
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:39
+name: Friesian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:390
+name: Estonian Bacon
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:391
+name: Red Dane
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:392
+name: White Czecholslovakian
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:393
+name: Pug
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14599" xsd:string
+
+[Term]
+id: OMIA:394
+name: Alpen
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:395
+name: Manchester Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15036" xsd:string
+
+[Term]
+id: OMIA:396
+name: Pointer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14527" xsd:string
+
+[Term]
+id: OMIA:397
+name: Springer Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14883" xsd:string
+
+[Term]
+id: OMIA:398
+name: Berkshire
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000348 xsd:string
+
+[Term]
+id: OMIA:399
+name: White Rock
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:4
+name: Briard
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13756" xsd:string
+
+[Term]
+id: OMIA:40
+name: Merino
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001067 xsd:string
+
+[Term]
+id: OMIA:400
+name: Australian Milking Zebu
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000028 xsd:string
+
+[Term]
+id: OMIA:401
+name: Australian Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22606" xsd:string
+
+[Term]
+id: OMIA:402
+name: Pembroke Welsh Corgi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15126" xsd:string
+
+[Term]
+id: OMIA:403
+name: Red Spotted Hungarian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:404
+name: Red and White Norwegian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:405
+name: Telemark
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000252 xsd:string
+
+[Term]
+id: OMIA:406
+name: Bighorn
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:407
+name: Camborough
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:408
+name: Pekinese
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:409
+name: Palomino
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000862 xsd:string
+property_value: venom_code "79220" xsd:string
+
+[Term]
+id: OMIA:41
+name: Poll Dorset
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:410
+name: Altamurana
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000693 xsd:string
+
+[Term]
+id: OMIA:411
+name: Polish Mountain
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:412
+name: Polish Zackel
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:413
+name: Kent
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:414
+name: Fryz
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:415
+name: Chiana
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:416
+name: Lakeland Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15033" xsd:string
+
+[Term]
+id: OMIA:417
+name: Jersey Giant
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000307 xsd:string
+
+[Term]
+id: OMIA:418
+name: Polypay
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000580 xsd:string
+
+[Term]
+id: OMIA:419
+name: Modica
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000184 xsd:string
+
+[Term]
+id: OMIA:42
+name: Cairn terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:420
+name: Teso
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:421
+name: Ankole
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000018 xsd:string
+
+[Term]
+id: OMIA:422
+name: Shorthorned Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:423
+name: Rhode Island
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:424
+name: Miniature Pinscher
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22419" xsd:string
+
+[Term]
+id: OMIA:425
+name: Nellore
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000563 xsd:string
+
+[Term]
+id: OMIA:426
+name: Pisa
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:427
+name: American Quarter Horse
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79033" xsd:string
+
+[Term]
+id: OMIA:428
+name: Fengjing
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000360 xsd:string
+
+[Term]
+id: OMIA:429
+name: Minzhu
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000383 xsd:string
+
+[Term]
+id: OMIA:43
+name: Awassi
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000428 xsd:string
+
+[Term]
+id: OMIA:430
+name: Bearded Collie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13882" xsd:string
+
+[Term]
+id: OMIA:431
+name: Anglo Nubian
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000958 xsd:string
+
+[Term]
+id: OMIA:432
+name: Blue Faced Leicester
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000443 xsd:string
+
+[Term]
+id: OMIA:433
+name: Swaledale
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000634 xsd:string
+
+[Term]
+id: OMIA:434
+name: Brown Russian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:435
+name: Great Yorkshire
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000338 xsd:string
+
+[Term]
+id: OMIA:436
+name: Oldenburg
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000859 xsd:string
+property_value: venom_code "79214" xsd:string
+
+[Term]
+id: OMIA:437
+name: Romagnola
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000225 xsd:string
+
+[Term]
+id: OMIA:438
+name: Red Spotted
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:439
+name: Angeln Saddleback
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000339 xsd:string
+
+[Term]
+id: OMIA:44
+name: Angus
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000017 xsd:string
+
+[Term]
+id: OMIA:440
+name: Broad Breasted Bronze
+relationship: RO:0002162 NCBITaxon:9103
+
+[Term]
+id: OMIA:441
+name: Guzera
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000122 xsd:string
+
+[Term]
+id: OMIA:442
+name: Rottweiler
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14636" xsd:string
+
+[Term]
+id: OMIA:443
+name: Fyoumi
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:444
+name: Marche
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:445
+name: Swedish Highland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:446
+name: Sealyham Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15071" xsd:string
+
+[Term]
+id: OMIA:447
+name: Swedish Mountain
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:448
+name: Red and white Swedish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:449
+name: Brangus
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000060 xsd:string
+
+[Term]
+id: OMIA:45
+name: Golden Campine
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:450
+name: Essex
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:451
+name: Saddleback
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000398 xsd:string
+
+[Term]
+id: OMIA:452
+name: Alsatian
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14796" xsd:string
+
+[Term]
+id: OMIA:453
+name: Shar Planinetz
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22591" xsd:string
+
+[Term]
+id: OMIA:454
+name: Siberian Huskie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "270" xsd:string
+property_value: venom_code "14275" xsd:string
+
+[Term]
+id: OMIA:455
+name: Flemish Giant
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18552" xsd:string
+
+[Term]
+id: OMIA:456
+name: New Zealand White
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18610" xsd:string
+
+[Term]
+id: OMIA:457
+name: Foxhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14006" xsd:string
+
+[Term]
+id: OMIA:458
+name: White Chinese
+relationship: RO:0002162 NCBITaxon:8848
+
+[Term]
+id: OMIA:459
+name: Mouton Vendeen
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000654 xsd:string
+
+[Term]
+id: OMIA:46
+name: Jersey
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000146 xsd:string
+
+[Term]
+id: OMIA:460
+name: British shorthair
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15257" xsd:string
+
+[Term]
+id: OMIA:461
+name: Domestic shorthair
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15273" xsd:string
+
+[Term]
+id: OMIA:462
+name: Bull Mastiff
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:463
+name: German Shorthaired Pointer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14557" xsd:string
+
+[Term]
+id: OMIA:464
+name: Boykin Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14841" xsd:string
+
+[Term]
+id: OMIA:465
+name: Brown Sofia
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:466
+name: French Landrace
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000361 xsd:string
+
+[Term]
+id: OMIA:467
+name: Edelschwein
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:468
+name: English Springer Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14884" xsd:string
+
+[Term]
+id: OMIA:469
+name: North Caucasian
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:47
+name: Romanov
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000597 xsd:string
+
+[Term]
+id: OMIA:470
+name: German Long-wool
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:471
+name: Rubia Gallega
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:472
+name: Asturiana
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000022 xsd:string
+
+[Term]
+id: OMIA:473
+name: Casco de Mula
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:474
+name: Baladi
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000032 xsd:string
+
+[Term]
+id: OMIA:475
+name: Angler
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:476
+name: Red and White German
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:477
+name: Barred Plymouth Rock
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:478
+name: Marwari
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000833 xsd:string
+
+[Term]
+id: OMIA:479
+name: East African Shorthorn Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:48
+name: Piedmontese
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000208 xsd:string
+
+[Term]
+id: OMIA:480
+name: Bohemian White
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:481
+name: East African Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:482
+name: Elliottdale
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:483
+name: Lhasa Apso
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14363" xsd:string
+
+[Term]
+id: OMIA:484
+name: Damascus
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:485
+name: Namaqua
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:486
+name: Australian Sheepdog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14685" xsd:string
+
+[Term]
+id: OMIA:487
+name: Polish Owczarek Nizinny
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14724" xsd:string
+
+[Term]
+id: OMIA:488
+name: Red Brahman
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:489
+name: Indubrazil
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:49
+name: Belgian Blue
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000042 xsd:string
+
+[Term]
+id: OMIA:490
+name: White Jaidara
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:491
+name: Gordon Setter
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14678" xsd:string
+
+[Term]
+id: OMIA:492
+name: Brown Alpine
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:493
+name: Bohemian Large White
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:495
+name: Black and White Lowland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:496
+name: Merino Fleisch Schafe
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:497
+name: White Karaman
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000665 xsd:string
+
+[Term]
+id: OMIA:498
+name: Black and White Polish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:499
+name: Clun Forest
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000464 xsd:string
+
+[Term]
+id: OMIA:5
+name: Canastrao
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:50
+name: Cocker Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14846" xsd:string
+
+[Term]
+id: OMIA:500
+name: Chinchilla
+relationship: RO:0002162 NCBITaxon:10152
+
+[Term]
+id: OMIA:501
+name: Urshumskaya
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:502
+name: Schwerfurt
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:503
+name: Beetal
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000965 xsd:string
+
+[Term]
+id: OMIA:504
+name: Black Bengal
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:505
+name: Black and White
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:506
+name: Jack Russel Terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:507
+name: Columbian Rock
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:508
+name: Canchim
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000068 xsd:string
+
+[Term]
+id: OMIA:509
+name: Gaddi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:51
+name: Large White
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000378 xsd:string
+
+[Term]
+id: OMIA:510
+name: Brown Swiss x Braunvieh
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:511
+name: Small African Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:512
+name: Borana
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:513
+name: Spotted Hungarian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:514
+name: Black MInorca
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:515
+name: Mastin del Pirineo
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:516
+name: Mastin Espanol
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19039" xsd:string
+
+[Term]
+id: OMIA:517
+name: Gos d'Atura
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22603" xsd:string
+
+[Term]
+id: OMIA:518
+name: Sabueso Espanol
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22527" xsd:string
+
+[Term]
+id: OMIA:519
+name: White Tzagai
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:52
+name: Meishan
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000381 xsd:string
+
+[Term]
+id: OMIA:520
+name: American Standardbred
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79037" xsd:string
+
+[Term]
+id: OMIA:521
+name: Grey Hungarian
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000134 xsd:string
+
+[Term]
+id: OMIA:522
+name: Wrzosowka
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:523
+name: Baoule
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:524
+name: Ganjam
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:525
+name: Hungarian Red Spotted
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:526
+name: Red Pied Lowland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:527
+name: Angeln
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000016 xsd:string
+
+[Term]
+id: OMIA:528
+name: Red German
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:529
+name: Maremma
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000174 xsd:string
+
+[Term]
+id: OMIA:53
+name: Corriedale
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000471 xsd:string
+
+[Term]
+id: OMIA:530
+name: Patanwadi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:531
+name: Scottish Blackface
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000612 xsd:string
+
+[Term]
+id: OMIA:532
+name: Colombian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:533
+name: Criolla
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:534
+name: Vacas de lidia
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:535
+name: Longhorn
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000097 xsd:string
+
+[Term]
+id: OMIA:536
+name: Caracu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:537
+name: Chesapeake Bay Retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14605" xsd:string
+
+[Term]
+id: OMIA:538
+name: Red Norwegian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:54
+name: Polwarth
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000579 xsd:string
+
+[Term]
+id: OMIA:541
+name: Polish Red
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000205 xsd:string
+
+[Term]
+id: OMIA:542
+name: Light Sussex
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:543
+name: Single Comb White Leghorn
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:544
+name: White Pekin
+relationship: RO:0002162 NCBITaxon:8835
+
+[Term]
+id: OMIA:545
+name: Montadale
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000559 xsd:string
+
+[Term]
+id: OMIA:546
+name: Jack Russell Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15009" xsd:string
+
+[Term]
+id: OMIA:547
+name: Priangan
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000583 xsd:string
+
+[Term]
+id: OMIA:548
+name: Black Leghorn
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:549
+name: Flemish Milksheep
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:55
+name: Romney Marsh
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000598 xsd:string
+
+[Term]
+id: OMIA:550
+name: Malamute
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13642" xsd:string
+
+[Term]
+id: OMIA:551
+name: Rathi
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000213 xsd:string
+
+[Term]
+id: OMIA:552
+name: Red Belgian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:553
+name: King Charles Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14880" xsd:string
+
+[Term]
+id: OMIA:555
+name: Gascon-Meishan
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:556
+name: Red Pied
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:557
+name: Shorthorn West African
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:558
+name: Sardinian Lowland
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:559
+name: Tervueron Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14765" xsd:string
+
+[Term]
+id: OMIA:56
+name: Dorset
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000488 xsd:string
+
+[Term]
+id: OMIA:560
+name: Belgian Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14761" xsd:string
+
+[Term]
+id: OMIA:561
+name: Boer
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000969 xsd:string
+
+[Term]
+id: OMIA:562
+name: Deutsches Edelschwein
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:563
+name: Boston Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14963" xsd:string
+
+[Term]
+id: OMIA:564
+name: Groningen
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:565
+name: White Cornish
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:566
+name: Gromark
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000509 xsd:string
+
+[Term]
+id: OMIA:567
+name: Gyr
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:568
+name: Large Black
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000376 xsd:string
+
+[Term]
+id: OMIA:57
+name: Red Poll
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000218 xsd:string
+
+[Term]
+id: OMIA:570
+name: Coloursided Tronder
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:571
+name: Blacksided Trondheims
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000050 xsd:string
+
+[Term]
+id: OMIA:572
+name: Oldenberg
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000859 xsd:string
+property_value: venom_code "79214" xsd:string
+
+[Term]
+id: OMIA:573
+name: Chow
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13876" xsd:string
+
+[Term]
+id: OMIA:574
+name: Brown Mountain
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:575
+name: Lundehund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14478" xsd:string
+
+[Term]
+id: OMIA:576
+name: Skye Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "75" xsd:string
+property_value: venom_code "15074" xsd:string
+
+[Term]
+id: OMIA:577
+name: Sydney Silky
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "236" xsd:string
+property_value: venom_code "15080" xsd:string
+
+[Term]
+id: OMIA:578
+name: Domestic Shorthair
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15273" xsd:string
+
+[Term]
+id: OMIA:579
+name: Black and White Danish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:58
+name: Limousin
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000162 xsd:string
+
+[Term]
+id: OMIA:580
+name: Marchigiana
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000173 xsd:string
+
+[Term]
+id: OMIA:581
+name: Guzerat
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000122 xsd:string
+
+[Term]
+id: OMIA:582
+name: Tabapuan
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:583
+name: Bulgarian Improved White
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000352 xsd:string
+
+[Term]
+id: OMIA:584
+name: Polbar
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:585
+name: Polish Greenleg
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:586
+name: Red Sindhi
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000220 xsd:string
+
+[Term]
+id: OMIA:587
+name: Desi
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:588
+name: Madras Red
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:589
+name: Appaloosa
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000724 xsd:string
+property_value: venom_code "79047" xsd:string
+
+[Term]
+id: OMIA:59
+name: Braunvieh
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000061 xsd:string
+
+[Term]
+id: OMIA:590
+name: Creole
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:591
+name: White American
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:592
+name: Black and White Swiss
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:593
+name: Sofia Brown
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:594
+name: Montafon
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:595
+name: Brown Bavarian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:596
+name: Tyrolean Grey
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:597
+name: Red Friesian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:598
+name: Maltese
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "17461" xsd:string
+
+[Term]
+id: OMIA:599
+name: Carelian Beardogs
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14311" xsd:string
+
+[Term]
+id: OMIA:6
+name: Indonesian Thin Tail
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:60
+name: Pinzgauer
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000209 xsd:string
+
+[Term]
+id: OMIA:600
+name: Dutch Belted
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000093 xsd:string
+
+[Term]
+id: OMIA:601
+name: Fribourg Black Spotted
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:602
+name: Bluetick Hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13889" xsd:string
+
+[Term]
+id: OMIA:603
+name: White Polled Short Hair
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:604
+name: Beveren
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18456" xsd:string
+
+[Term]
+id: OMIA:605
+name: French
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18557" xsd:string
+
+[Term]
+id: OMIA:606
+name: Girolanda
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:607
+name: Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14927" xsd:string
+
+[Term]
+id: OMIA:608
+name: German Simmental
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:609
+name: Red Bohemian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:61
+name: Gelbvieh
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000110 xsd:string
+
+[Term]
+id: OMIA:610
+name: Pied Bohemian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:611
+name: Pied Slovak
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:612
+name: protein
+relationship: RO:0002162 NCBITaxon:9986
+
+[Term]
+id: OMIA:613
+name: Poland China
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000395 xsd:string
+
+[Term]
+id: OMIA:614
+name: Hungarian White
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:615
+name: Block Spotted
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:616
+name: Spael
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:617
+name: Swedish Lapland
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "135" xsd:string
+property_value: venom_code "14360" xsd:string
+
+[Term]
+id: OMIA:618
+name: Normande
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000197 xsd:string
+
+[Term]
+id: OMIA:619
+name: German Pinscher
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14524" xsd:string
+
+[Term]
+id: OMIA:62
+name: Blue Andalusian
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:620
+name: Tzigaia
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:621
+name: Sirohi
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:622
+name: Miniature Toy Poodle
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:623
+name: Choka
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:624
+name: Nali
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:625
+name: Karakachan
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:626
+name: Wurttemberg Merino
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:627
+name: German Blackheaded Mutton
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000501 xsd:string
+
+[Term]
+id: OMIA:628
+name: German Whiteheaded Mutton
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000504 xsd:string
+
+[Term]
+id: OMIA:629
+name: East Friesian
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:63
+name: Silver Spangled Hamburgh
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:630
+name: German Heath
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:631
+name: Rhon
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:632
+name: Bentheim
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:633
+name: Hovawart
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14088" xsd:string
+
+[Term]
+id: OMIA:634
+name: Vizsla
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22417" xsd:string
+
+[Term]
+id: OMIA:635
+name: Bull mastiff
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:636
+name: English Cocker Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14850" xsd:string
+
+[Term]
+id: OMIA:637
+name: Black and White Belgian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:638
+name: Dagestan White
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:639
+name: Comiaana
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:64
+name: Silver Sebright
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:640
+name: Anatolian Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14755" xsd:string
+
+[Term]
+id: OMIA:641
+name: Toy Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14872" xsd:string
+
+[Term]
+id: OMIA:642
+name: Beltsville
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:643
+name: Tharparkar
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:644
+name: Droughtmaster
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000091 xsd:string
+
+[Term]
+id: OMIA:645
+name: Brown Latvian
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000161 xsd:string
+
+[Term]
+id: OMIA:646
+name: Kelpie
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:647
+name: Sussex
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000333 xsd:string
+
+[Term]
+id: OMIA:648
+name: Criollo
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000020 xsd:string
+
+[Term]
+id: OMIA:649
+name: Red Spotted Simmental
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:65
+name: Gir
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000113 xsd:string
+
+[Term]
+id: OMIA:650
+name: Tibetan Mastiff
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "230" xsd:string
+property_value: venom_code "14432" xsd:string
+
+[Term]
+id: OMIA:651
+name: Pied
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:652
+name: Swedish Finewool Landrace
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:653
+name: Gascony
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:654
+name: Black Pied Basque
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:655
+name: Colorado Ranger
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000761 xsd:string
+
+[Term]
+id: OMIA:656
+name: Tate de Mouton
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:657
+name: Borzoi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15136" xsd:string
+
+[Term]
+id: OMIA:658
+name: Red Pied Swedish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:659
+name: Shorthorn Friesian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:66
+name: Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:660
+name: Est a Laine Merino
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:661
+name: Prealpes
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:662
+name: Communes des Alpes
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:663
+name: Ausimi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:664
+name: Osimi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:665
+name: Rahmani
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:666
+name: Racka
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000590 xsd:string
+
+[Term]
+id: OMIA:667
+name: Plymouth Rock
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000324 xsd:string
+
+[Term]
+id: OMIA:668
+name: Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14752" xsd:string
+
+[Term]
+id: OMIA:669
+name: Irish Wolfhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15134" xsd:string
+
+[Term]
+id: OMIA:67
+name: Merino d'Arles
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000425 xsd:string
+
+[Term]
+id: OMIA:670
+name: Gudali
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000120 xsd:string
+
+[Term]
+id: OMIA:671
+name: Wakwa
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:672
+name: West Highland Terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:673
+name: Webster Terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:674
+name: African Dwarf
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:675
+name: German Improved
+relationship: RO:0002162 NCBITaxon:9925
+
+[Term]
+id: OMIA:676
+name: Kenana
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:677
+name: Butana
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:678
+name: Western (Sudanese)
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:679
+name: White leghorn
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0001061 xsd:string
+
+[Term]
+id: OMIA:68
+name: German Boxer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13727" xsd:string
+
+[Term]
+id: OMIA:680
+name: Romney Marsh (Kent)
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000598 xsd:string
+
+[Term]
+id: OMIA:681
+name: Cotswold
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000472 xsd:string
+
+[Term]
+id: OMIA:682
+name: Black and White Polish Lowland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:683
+name: Shih-Tzu
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14833" xsd:string
+
+[Term]
+id: OMIA:684
+name: Gold Coast Shorthorn
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:685
+name: Poznan
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:686
+name: Ardennes
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000727 xsd:string
+property_value: venom_code "79051" xsd:string
+
+[Term]
+id: OMIA:687
+name: Fjord
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000857 xsd:string
+property_value: venom_code "79019" xsd:string
+
+[Term]
+id: OMIA:688
+name: Polish Koniks
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000871 xsd:string
+property_value: venom_code "79176" xsd:string
+
+[Term]
+id: OMIA:689
+name: Shiba
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14287" xsd:string
+
+[Term]
+id: OMIA:69
+name: German shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14796" xsd:string
+
+[Term]
+id: OMIA:690
+name: White and Blue Belgian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:691
+name: Red Abyssinian
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:692
+name: Red Point Siamese
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:693
+name: Tonkanese
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15334" xsd:string
+
+[Term]
+id: OMIA:694
+name: Dorset Down
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000489 xsd:string
+
+[Term]
+id: OMIA:695
+name: Sykia Chalkidiki
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:696
+name: Aosta
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:697
+name: Saluki
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14646" xsd:string
+
+[Term]
+id: OMIA:698
+name: Shuwa Arab
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:699
+name: Muturu West African
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:7
+name: Boxer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13724" xsd:string
+
+[Term]
+id: OMIA:70
+name: Rocky Mountain
+relationship: RO:0002162 NCBITaxon:37174
+
+[Term]
+id: OMIA:700
+name: Dwarf Shorthorn
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:701
+name: Erminette
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:702
+name: Red Pied Flemish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:703
+name: Norwegian Dunkerhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14200" xsd:string
+
+[Term]
+id: OMIA:704
+name: Keezhakkaraisal
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:705
+name: Black Spotted Swiss
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:706
+name: Karabas
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22639" xsd:string
+
+[Term]
+id: OMIA:707
+name: Bunaji
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:708
+name: Toyen
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:709
+name: Middle Black Masked
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:71
+name: Red Polish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:710
+name: Small Red
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:711
+name: Small Black
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:712
+name: Kalmyk
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:713
+name: Muturu
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000190 xsd:string
+
+[Term]
+id: OMIA:714
+name: Shuwa
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:715
+name: Kedah Kelantan
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:716
+name: Sahelian
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0001017 xsd:string
+
+[Term]
+id: OMIA:717
+name: Busa
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000064 xsd:string
+
+[Term]
+id: OMIA:718
+name: Pomurslo
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:719
+name: Pramenka
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:72
+name: Red Danish
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:720
+name: Solcava
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:721
+name: Carthusian
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:722
+name: British Shorthair
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15257" xsd:string
+
+[Term]
+id: OMIA:723
+name: White Holland
+relationship: RO:0002162 NCBITaxon:9103
+
+[Term]
+id: OMIA:724
+name: Hampshire Down
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:725
+name: Landseer Newfoundland
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14477" xsd:string
+
+[Term]
+id: OMIA:727
+name: Rhoenschaf
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000595 xsd:string
+
+[Term]
+id: OMIA:728
+name: Schwarzkoepfiges Fleischschaf
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:729
+name: Skudde
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000616 xsd:string
+
+[Term]
+id: OMIA:73
+name: Holstein Friesian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:730
+name: Middle Yorkshire
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000382 xsd:string
+
+[Term]
+id: OMIA:732
+name: Brindled Czech
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:733
+name: Large White Czech
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:734
+name: Kholmogor
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000156 xsd:string
+
+[Term]
+id: OMIA:735
+name: Tukidale
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:736
+name: Wurttemberg Brown
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:737
+name: Bukedi
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:738
+name: Shorthorn Zebu
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:739
+name: Yellow hill
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:74
+name: Landrace
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000692 xsd:string
+
+[Term]
+id: OMIA:740
+name: English Mastiff
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14401" xsd:string
+
+[Term]
+id: OMIA:741
+name: Welsh Wolfhound
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:742
+name: Toy Terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:743
+name: Soay
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000617 xsd:string
+
+[Term]
+id: OMIA:744
+name: Bouvier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "7351" xsd:string
+
+[Term]
+id: OMIA:745
+name: Ridgeback
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14633" xsd:string
+
+[Term]
+id: OMIA:746
+name: Grey Steppe
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000258 xsd:string
+
+[Term]
+id: OMIA:748
+name: Rambouillet
+relationship: RO:0002162 NCBITaxon:9939
+property_value: lbo_id LBO:0000591 xsd:string
+
+[Term]
+id: OMIA:749
+name:  Rambouillet
+relationship: RO:0002162 NCBITaxon:9939
+property_value: lbo_id LBO:0000591 xsd:string
+
+[Term]
+id: OMIA:75
+name: Labrador Retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14631" xsd:string
+
+[Term]
+id: OMIA:750
+name: Ovis aries
+relationship: RO:0002162 NCBITaxon:9939
+
+[Term]
+id: OMIA:751
+name: cow
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:752
+name: cattle
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:753
+name: Piemontese
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:755
+name: Holstein-Friesian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:756
+name: Indian Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:757
+name: Polish Holstein-Friesian cattle
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:758
+name: Bichon Frise
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13714" xsd:string
+
+[Term]
+id: OMIA:759
+name: Papillon
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14488" xsd:string
+
+[Term]
+id: OMIA:76
+name: Shorthorn
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000240 xsd:string
+
+[Term]
+id: OMIA:760
+name: Finnish Lapphund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14359" xsd:string
+
+[Term]
+id: OMIA:761
+name: Burmilla
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15259" xsd:string
+
+[Term]
+id: OMIA:762
+name: Irish Red and White Setter
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14680" xsd:string
+
+[Term]
+id: OMIA:763
+name: Navasota (mixed breed)
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:764
+name: American cocker spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14848" xsd:string
+
+[Term]
+id: OMIA:765
+name: American Staffordshire terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15079" xsd:string
+
+[Term]
+id: OMIA:766
+name: American pit bull terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14952" xsd:string
+
+[Term]
+id: OMIA:767
+name: Brussels griffon
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22521" xsd:string
+
+[Term]
+id: OMIA:768
+name: French bull terrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:769
+name: French bull dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13768" xsd:string
+
+[Term]
+id: OMIA:77
+name: Saanen
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0001017 xsd:string
+
+[Term]
+id: OMIA:770
+name: Podenco dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22566" xsd:string
+
+[Term]
+id: OMIA:771
+name: wheaten terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "40" xsd:string
+property_value: venom_code "15075" xsd:string
+
+[Term]
+id: OMIA:772
+name: Hungarian komondor
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22648" xsd:string
+
+[Term]
+id: OMIA:773
+name: Toy Fox Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15002" xsd:string
+
+[Term]
+id: OMIA:774
+name: Rat Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22634" xsd:string
+
+[Term]
+id: OMIA:775
+name: Tenterfield Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15082" xsd:string
+
+[Term]
+id: OMIA:776
+name: Spanish water dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "336" xsd:string
+property_value: venom_code "15120" xsd:string
+
+[Term]
+id: OMIA:777
+name: Domestic Longhair
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15271" xsd:string
+
+[Term]
+id: OMIA:778
+name: Maine Coon
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15294" xsd:string
+
+[Term]
+id: OMIA:779
+name: Curly-coated retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14606" xsd:string
+
+[Term]
+id: OMIA:78
+name: Alpine
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000955 xsd:string
+
+[Term]
+id: OMIA:780
+name: Lagotto Romagnolo
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15119" xsd:string
+
+[Term]
+id: OMIA:781
+name: Mastiff
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14368" xsd:string
+
+[Term]
+id: OMIA:782
+name: Mexican Hairless Dog (Xoloitzcuintli)
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14434" xsd:string
+
+[Term]
+id: OMIA:783
+name: Peruvian Hairless Dog (Inca Hairless)
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14514" xsd:string
+
+[Term]
+id: OMIA:784
+name: Chinese Crested Dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22494" xsd:string
+
+[Term]
+id: OMIA:785
+name: Whippet
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "162" xsd:string
+property_value: venom_code "15127" xsd:string
+
+[Term]
+id: OMIA:786
+name: Pekingese
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14511" xsd:string
+
+[Term]
+id: OMIA:787
+name: Grand Basset Griffon Vendeen
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14074" xsd:string
+
+[Term]
+id: OMIA:788
+name: Ragdoll
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15315" xsd:string
+
+[Term]
+id: OMIA:789
+name: Dahe
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:79
+name: Afrikander
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000005 xsd:string
+
+[Term]
+id: OMIA:790
+name: Kele
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000372 xsd:string
+
+[Term]
+id: OMIA:791
+name: Chinese-Tibetan
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000404 xsd:string
+
+[Term]
+id: OMIA:792
+name: Old Danish Pointing Dog
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:793
+name: Clumber Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14845" xsd:string
+
+[Term]
+id: OMIA:794
+name: Sussex Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "127" xsd:string
+property_value: venom_code "14886" xsd:string
+
+[Term]
+id: OMIA:795
+name: Frisian Water Dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "221" xsd:string
+property_value: venom_code "14874" xsd:string
+
+[Term]
+id: OMIA:796
+name: Trait Breton
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:797
+name: Trait Comtois
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:798
+name: Lancashire heeler
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14118" xsd:string
+
+[Term]
+id: OMIA:799
+name: Nova Scotia Duck Tolling retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14632" xsd:string
+
+[Term]
+id: OMIA:8
+name: Miniature Schnauzer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14672" xsd:string
+
+[Term]
+id: OMIA:80
+name: Collie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13879" xsd:string
+
+[Term]
+id: OMIA:800
+name: Portugese water dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15118" xsd:string
+
+[Term]
+id: OMIA:801
+name: Alaskan Husky
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14272" xsd:string
+
+[Term]
+id: OMIA:802
+name: Corgi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15123" xsd:string
+
+[Term]
+id: OMIA:803
+name: Wirehaired Griffon
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14084" xsd:string
+
+[Term]
+id: OMIA:804
+name: Chesapeake Bay Retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14605" xsd:string
+
+[Term]
+id: OMIA:805
+name: American Eskimo dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14280" xsd:string
+
+[Term]
+id: OMIA:806
+name: American Bulldog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13761" xsd:string
+
+[Term]
+id: OMIA:807
+name: Siamese
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15326" xsd:string
+
+[Term]
+id: OMIA:808
+name: Siamese
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15326" xsd:string
+
+[Term]
+id: OMIA:809
+name: Collie 
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13879" xsd:string
+
+[Term]
+id: OMIA:81
+name: Sardi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:810
+name: McNab shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14804" xsd:string
+
+[Term]
+id: OMIA:811
+name: Longhaired whippet
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22416" xsd:string
+
+[Term]
+id: OMIA:812
+name: Silken windhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14835" xsd:string
+
+[Term]
+id: OMIA:813
+name: White Swiss shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "347" xsd:string
+property_value: venom_code "14810" xsd:string
+
+[Term]
+id: OMIA:814
+name: Waller
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22429" xsd:string
+
+[Term]
+id: OMIA:815
+name: Mixed breed
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13916" xsd:string
+
+[Term]
+id: OMIA:816
+name: Coton de Tulear
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13914" xsd:string
+
+[Term]
+id: OMIA:817
+name: Lapponian Herder 
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22415" xsd:string
+
+[Term]
+id: OMIA:818
+name: Great Pyrenees
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14448" xsd:string
+
+[Term]
+id: OMIA:819
+name: Italian Cane Corso
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14403" xsd:string
+
+[Term]
+id: OMIA:82
+name: Beni Guil
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:820
+name: Dogue de Bordeaux
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "19077" xsd:string
+
+[Term]
+id: OMIA:821
+name: Mixed breed
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13916" xsd:string
+
+[Term]
+id: OMIA:822
+name: Cornish Rex
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15266" xsd:string
+
+[Term]
+id: OMIA:823
+name: Malinois
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14764" xsd:string
+
+[Term]
+id: OMIA:824
+name: Sphynx
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15333" xsd:string
+
+[Term]
+id: OMIA:825
+name: Embrapa
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:826
+name: Icelandic
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000807 xsd:string
+property_value: venom_code "79160" xsd:string
+
+[Term]
+id: OMIA:827
+name: Muscovy
+relationship: RO:0002162 NCBITaxon:8839
+
+[Term]
+id: OMIA:828
+name: Araucana
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000277 xsd:string
+
+[Term]
+id: OMIA:829
+name: Sloughi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "188" xsd:string
+
+[Term]
+id: OMIA:83
+name: D'man
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:830
+name: Australian stumpy tail cattle dog
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:831
+name: Entlebucher mountain dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22410" xsd:string
+
+[Term]
+id: OMIA:832
+name: Karelian bear dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14311" xsd:string
+
+[Term]
+id: OMIA:833
+name: Kuvasz
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14245" xsd:string
+
+[Term]
+id: OMIA:834
+name: Swedish Lapphund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "135" xsd:string
+property_value: venom_code "14360" xsd:string
+
+[Term]
+id: OMIA:835
+name: Mongrel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13916" xsd:string
+
+[Term]
+id: OMIA:836
+name: Schapendoes
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14713" xsd:string
+
+[Term]
+id: OMIA:837
+name: Silky/Silkie
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:838
+name: Tibetan spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "231" xsd:string
+property_value: venom_code "14887" xsd:string
+
+[Term]
+id: OMIA:839
+name: Miniature Long-haired Dachsund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13955" xsd:string
+
+[Term]
+id: OMIA:84
+name: Doberman Pinscher
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14523" xsd:string
+
+[Term]
+id: OMIA:840
+name: Finnish Yorkshire
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:841
+name: Glen of Imaal
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15005" xsd:string
+
+[Term]
+id: OMIA:842
+name: Standard wire-haired dachshund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13961" xsd:string
+
+[Term]
+id: OMIA:843
+name: Miniature Australian shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14757" xsd:string
+
+[Term]
+id: OMIA:844
+name: Smooth Collie
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "296" xsd:string
+property_value: venom_code "13881" xsd:string
+
+[Term]
+id: OMIA:845
+name: Perro de Presa Canario
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "22409" xsd:string
+
+[Term]
+id: OMIA:846
+name: German pointer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14553" xsd:string
+
+[Term]
+id: OMIA:847
+name: American saddleback
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:848
+name: American Saddlebred
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79035" xsd:string
+
+[Term]
+id: OMIA:849
+name: German Blackface
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:85
+name: Beagle
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13683" xsd:string
+
+[Term]
+id: OMIA:850
+name: German Fleckvieh
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:851
+name: Norfolk terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15042" xsd:string
+
+[Term]
+id: OMIA:852
+name: German Rex
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15282" xsd:string
+
+[Term]
+id: OMIA:853
+name: Belted Galloway
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000046 xsd:string
+
+[Term]
+id: OMIA:854
+name: Kentucky Mountain Saddle
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:855
+name: Franches-Montagnes
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:856
+name: Murrah
+relationship: RO:0002162 NCBITaxon:89462
+property_value: lbo_id LBO:0001049 xsd:string
+
+[Term]
+id: OMIA:857
+name: Rotes H̦henvieh
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:858
+name: Wachtelhund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "104" xsd:string
+property_value: venom_code "13965" xsd:string
+
+[Term]
+id: OMIA:859
+name: Finnish Hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14163" xsd:string
+
+[Term]
+id: OMIA:86
+name: Holstein
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000132 xsd:string
+
+[Term]
+id: OMIA:860
+name: Dongxiang
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:861
+name: Rongchang
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:862
+name: Ayam Cemani
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:863
+name: Black H'Mong
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:864
+name: Svarth̦na (ohusl�_n-Dals Svarth̦na)
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:865
+name: Korat
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15289" xsd:string
+
+[Term]
+id: OMIA:866
+name: Japanese domestic
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:867
+name: Jacob
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000526 xsd:string
+
+[Term]
+id: OMIA:868
+name: Paso Fino
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000864 xsd:string
+property_value: venom_code "79222" xsd:string
+
+[Term]
+id: OMIA:869
+name: Irish Cambridge
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:87
+name: Guernsey
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000121 xsd:string
+
+[Term]
+id: OMIA:870
+name: Brazilian Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14964" xsd:string
+
+[Term]
+id: OMIA:871
+name: Selkirk Rex
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15322" xsd:string
+
+[Term]
+id: OMIA:872
+name: Lusitano
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000830 xsd:string
+property_value: venom_code "79182" xsd:string
+
+[Term]
+id: OMIA:873
+name: German Wirehaired Pointer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14558" xsd:string
+
+[Term]
+id: OMIA:874
+name: Wessex Saddleback
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:875
+name: Bavarian Landschwein
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:876
+name: crested Polish
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:877
+name: Swiss Alpine
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:878
+name: Cameroon
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:879
+name: Greater Swiss Mountain
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14447" xsd:string
+
+[Term]
+id: OMIA:88
+name: Black Pied
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:880
+name: Dutch Kooiker
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14318" xsd:string
+
+[Term]
+id: OMIA:881
+name: Alaskan sled dog
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:882
+name: Olkuska
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:883
+name: Rasa Aragonesa
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000592 xsd:string
+
+[Term]
+id: OMIA:884
+name: Belclare
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000951 xsd:string
+
+[Term]
+id: OMIA:885
+name: Japanese Chin dog
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14286" xsd:string
+
+[Term]
+id: OMIA:887
+name: Parson Russell Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15044" xsd:string
+
+[Term]
+id: OMIA:888
+name: Don Sphynx
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15275" xsd:string
+
+[Term]
+id: OMIA:889
+name: Churra
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:89
+name: Samoyed
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14647" xsd:string
+
+[Term]
+id: OMIA:890
+name: Swedish Landrace
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:891
+name: Borderdale
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:892
+name: Dandie Dinmont Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14995" xsd:string
+
+[Term]
+id: OMIA:893
+name: American Bobtail
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "18082" xsd:string
+
+[Term]
+id: OMIA:894
+name: Pixie-Bob
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15313" xsd:string
+
+[Term]
+id: OMIA:895
+name: Mapuche
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:896
+name: Lushi
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:897
+name: Cream Legbar
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:898
+name: Crevecoeur
+relationship: RO:0002162 NCBITaxon:9031
+property_value: lbo_id LBO:0000291 xsd:string
+
+[Term]
+id: OMIA:899
+name: Landseer
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14477" xsd:string
+
+[Term]
+id: OMIA:9
+name: Sebright Bantam
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:90
+name: Blue Point Siamese
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:900
+name: Scottish Deerhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14675" xsd:string
+
+[Term]
+id: OMIA:901
+name: Datong
+relationship: RO:0002162 NCBITaxon:30521
+
+[Term]
+id: OMIA:902
+name: Shiba-Inu
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14287" xsd:string
+
+[Term]
+id: OMIA:903
+name: Finnish Spitz
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14912" xsd:string
+
+[Term]
+id: OMIA:904
+name: Lacaune
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001072 xsd:string
+
+[Term]
+id: OMIA:905
+name: Northern Finncattle
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:906
+name: Draft
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79109" xsd:string
+
+[Term]
+id: OMIA:907
+name: Norwich Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15043" xsd:string
+
+[Term]
+id: OMIA:908
+name: Connemara pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000762 xsd:string
+property_value: venom_code "79096" xsd:string
+
+[Term]
+id: OMIA:909
+name: Kankrej
+relationship: RO:0002162 NCBITaxon:9915
+
+[Term]
+id: OMIA:91
+name: Maltese Blue
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15295" xsd:string
+
+[Term]
+id: OMIA:910
+name: Catahoula leopard dogs
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13919" xsd:string
+
+[Term]
+id: OMIA:911
+name: Nordic Red
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:912
+name: Cabugi
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:913
+name: Zamorano-Leon̩s
+relationship: RO:0002162 NCBITaxon:9793
+
+[Term]
+id: OMIA:914
+name: Minohiki
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:915
+name: Nordic Holstein
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:916
+name: Leonberger
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14361" xsd:string
+
+[Term]
+id: OMIA:918
+name: Checkered Giant
+relationship: RO:0002162 NCBITaxon:9986
+property_value: venom_code "18489" xsd:string
+
+[Term]
+id: OMIA:919
+name: Carora
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:92
+name: Senepol
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000237 xsd:string
+
+[Term]
+id: OMIA:920
+name: Romosinuano
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000226 xsd:string
+
+[Term]
+id: OMIA:921
+name: Kromfohrl�_nder
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14323" xsd:string
+
+[Term]
+id: OMIA:922
+name: Silky fantail
+relationship: RO:0002162 NCBITaxon:8932
+
+[Term]
+id: OMIA:923
+name: Finnish Ayrshire
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:924
+name: Valais Blacknecked Goat
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0001027 xsd:string
+
+[Term]
+id: OMIA:925
+name: Japanese Spitz
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14918" xsd:string
+
+[Term]
+id: OMIA:926
+name: Eurasier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13997" xsd:string
+
+[Term]
+id: OMIA:927
+name: Birman
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15251" xsd:string
+
+[Term]
+id: OMIA:928
+name: Shaziling
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:929
+name: Boerboel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13635" xsd:string
+
+[Term]
+id: OMIA:93
+name: Duroc
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000358 xsd:string
+
+[Term]
+id: OMIA:930
+name: Flat-coated retriever
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14608" xsd:string
+
+[Term]
+id: OMIA:931
+name: German Riding Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79133" xsd:string
+
+[Term]
+id: OMIA:932
+name: New Forest Pony
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000848 xsd:string
+property_value: venom_code "79204" xsd:string
+
+[Term]
+id: OMIA:933
+name: Black Russian Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14960" xsd:string
+
+[Term]
+id: OMIA:934
+name: Pezzata Rossa
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000934 xsd:string
+
+[Term]
+id: OMIA:935
+name: Liangshan
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:936
+name: Basset Fauve de Bretagne
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13682" xsd:string
+
+[Term]
+id: OMIA:937
+name: Warmblood
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79277" xsd:string
+
+[Term]
+id: OMIA:938
+name: Damara
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000478 xsd:string
+
+[Term]
+id: OMIA:939
+name: Navajo-Churro
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0000562 xsd:string
+
+[Term]
+id: OMIA:94
+name: White
+relationship: RO:0002162 NCBITaxon:9823
+
+[Term]
+id: OMIA:940
+name: Swedish Red
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:941
+name: Miniature Highland
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:942
+name: Italian draft horse
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:943
+name: Toyger
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15335" xsd:string
+
+[Term]
+id: OMIA:944
+name: Italian hound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14196" xsd:string
+
+[Term]
+id: OMIA:945
+name: American Foxhound
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14007" xsd:string
+
+[Term]
+id: OMIA:946
+name: Poitou
+relationship: RO:0002162 NCBITaxon:9793
+
+[Term]
+id: OMIA:947
+name: American Paint Horse
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:948
+name: French Spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14877" xsd:string
+
+[Term]
+id: OMIA:949
+name: Alpenl�_ndische Dachsbracke
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13928" xsd:string
+
+[Term]
+id: OMIA:95
+name: Polled Hereford
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000206 xsd:string
+
+[Term]
+id: OMIA:950
+name: Smooth-Haired Fox Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15001" xsd:string
+
+[Term]
+id: OMIA:951
+name: Russell Terrier
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15047" xsd:string
+
+[Term]
+id: OMIA:952
+name: Gordon Setter
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14678" xsd:string
+
+[Term]
+id: OMIA:953
+name: Alaskan Klee Kai
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13641" xsd:string
+
+[Term]
+id: OMIA:954
+name: Akhal-Teke
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000715 xsd:string
+property_value: venom_code "79023" xsd:string
+
+[Term]
+id: OMIA:955
+name: Italian Spinone
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14284" xsd:string
+
+[Term]
+id: OMIA:956
+name: Haflinger
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000799 xsd:string
+property_value: venom_code "79139" xsd:string
+
+[Term]
+id: OMIA:957
+name: Shar-Pei
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13873" xsd:string
+
+[Term]
+id: OMIA:958
+name: Tunisian Barbarine
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:959
+name: Hungarian Puli
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15117" xsd:string
+
+[Term]
+id: OMIA:96
+name: Maine Anjou
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000170 xsd:string
+
+[Term]
+id: OMIA:960
+name: Central Asian Shepherd
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14770" xsd:string
+
+[Term]
+id: OMIA:961
+name: Heideterrier
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:962
+name: Red Holstein Friesian
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:963
+name: Miniature Shetland
+relationship: RO:0002162 NCBITaxon:9796
+property_value: venom_code "79192" xsd:string
+
+[Term]
+id: OMIA:964
+name: Miniature Wirehaired Dachshund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13957" xsd:string
+
+[Term]
+id: OMIA:965
+name: Welsh springer spaniel
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "126" xsd:string
+property_value: venom_code "14885" xsd:string
+
+[Term]
+id: OMIA:966
+name: Sphinx
+relationship: RO:0002162 NCBITaxon:9685
+
+[Term]
+id: OMIA:967
+name: Romane
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001090 xsd:string
+
+[Term]
+id: OMIA:968
+name: Menorca
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:969
+name: Anyi tile-like gray
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:97
+name: Blonde d'Aquitaine
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000053 xsd:string
+
+[Term]
+id: OMIA:970
+name: Swedish Vallhund
+relationship: RO:0002162 NCBITaxon:9615
+property_value: fci_id "14" xsd:string
+property_value: venom_code "13841" xsd:string
+
+[Term]
+id: OMIA:971
+name: Beijing fatty
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:972
+name: Muchuan
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:973
+name: German Spitz
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "14913" xsd:string
+
+[Term]
+id: OMIA:974
+name: Numerous breeds
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:975
+name: Mongolian
+relationship: RO:0002162 NCBITaxon:30521
+
+[Term]
+id: OMIA:976
+name: Curly
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:977
+name: White Dorper
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:978
+name: Australian Working Kelpie
+relationship: RO:0002162 NCBITaxon:9615
+
+[Term]
+id: OMIA:979
+name: Italian Trotter
+relationship: RO:0002162 NCBITaxon:9796
+
+[Term]
+id: OMIA:98
+name: N'Dama
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:980
+name: Welsh Corgi
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "15123" xsd:string
+
+[Term]
+id: OMIA:981
+name: Akita
+relationship: RO:0002162 NCBITaxon:9615
+property_value: venom_code "13638" xsd:string
+
+[Term]
+id: OMIA:982
+name: Norwegian Forest
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "15304" xsd:string
+
+[Term]
+id: OMIA:983
+name: Somali
+relationship: RO:0002162 NCBITaxon:9685
+property_value: venom_code "7355" xsd:string
+
+[Term]
+id: OMIA:984
+name: Chinese Erhualian
+relationship: RO:0002162 NCBITaxon:9823
+property_value: lbo_id LBO:0000691 xsd:string
+
+[Term]
+id: OMIA:985
+name: Gasconne
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:986
+name: Parthenaise
+relationship: RO:0002162 NCBITaxon:9913
+
+[Term]
+id: OMIA:988
+name: Dutch Landrace
+relationship: RO:0002162 NCBITaxon:9925
+property_value: lbo_id LBO:0000980 xsd:string
+
+[Term]
+id: OMIA:989
+name: Quv (quiver) strain
+relationship: RO:0002162 NCBITaxon:9091
+
+[Term]
+id: OMIA:99
+name: Boran
+relationship: RO:0002162 NCBITaxon:9913
+property_value: lbo_id LBO:0000055 xsd:string
+
+[Term]
+id: OMIA:990
+name: Valle del Belice
+relationship: RO:0002162 NCBITaxon:9940
+property_value: lbo_id LBO:0001075 xsd:string
+
+[Term]
+id: OMIA:991
+name: Norwegian White
+relationship: RO:0002162 NCBITaxon:9940
+
+[Term]
+id: OMIA:992
+name: UC Davis lines
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:993
+name: Storrs, Connecticut (low line)
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:994
+name: Israeli experimental line
+relationship: RO:0002162 NCBITaxon:9031
+
+[Term]
+id: OMIA:995
+name: New Hampshire
+relationship: RO:0002162 NCBITaxon:10042
+
+[Term]
+id: OMIA:996
+name: Alaska
+relationship: RO:0002162 NCBITaxon:10042
+
+[Term]
+id: OMIA:997
+name: Swamp
+relationship: RO:0002162 NCBITaxon:89462
+
+[Term]
+id: OMIA:998
+name: Friesian
+relationship: RO:0002162 NCBITaxon:9796
+property_value: lbo_id LBO:0000789 xsd:string
+property_value: venom_code "79129" xsd:string
+
+[Term]
+id: OMIA:999
+name: American hairless
+relationship: RO:0002162 NCBITaxon:9615
+

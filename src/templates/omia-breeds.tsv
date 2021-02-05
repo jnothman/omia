@@ -1,0 +1,1152 @@
+defined_class	defined_class_label	taxon	lbo_id	venom_code	fci_id
+ID	LABEL	SC 'in taxon' some %	A http://purl.obolibrary.org/obo/omia#lbo_id	A http://purl.obolibrary.org/obo/omia#venom_code	A http://purl.obolibrary.org/obo/omia#fci_id
+OMIA:1103	Kurilian Bobtail	NCBITaxon:9685		15290	15291
+OMIA:813	White Swiss shepherd	NCBITaxon:9615		14810	347
+OMIA:1018	Thai Ridgeback	NCBITaxon:9615		14635	338
+OMIA:776	Spanish water dog	NCBITaxon:9615		15120	336
+OMIA:844	Smooth Collie	NCBITaxon:9615		13881	296
+OMIA:1101	Spanish greyhound	NCBITaxon:9615		14072	285
+OMIA:14	Siberian Husky	NCBITaxon:9615		14275	270
+OMIA:454	Siberian Huskie	NCBITaxon:9615		14275	270
+OMIA:577	Sydney Silky	NCBITaxon:9615		15080	236
+OMIA:838	Tibetan spaniel	NCBITaxon:9615		14887	231
+OMIA:650	Tibetan Mastiff	NCBITaxon:9615		14432	230
+OMIA:795	Frisian Water Dog	NCBITaxon:9615		14874	221
+OMIA:384	Tibetan Terrier	NCBITaxon:9615		15083	209
+OMIA:829	Sloughi	NCBITaxon:9615			188
+OMIA:215	Wirehaired Fox Terrier	NCBITaxon:9615		15003	169
+OMIA:785	Whippet	NCBITaxon:9615		15127	162
+OMIA:617	Swedish Lapland	NCBITaxon:9615		14360	135
+OMIA:834	Swedish Lapphund	NCBITaxon:9615		14360	135
+OMIA:794	Sussex Spaniel	NCBITaxon:9615		14886	127
+OMIA:965	Welsh springer spaniel	NCBITaxon:9615		14885	126
+OMIA:858	Wachtelhund	NCBITaxon:9615		13965	104
+OMIA:328	Yorkshire Terrier	NCBITaxon:9615		15087	86
+OMIA:380	Yorkshire terrier	NCBITaxon:9615		15087	86
+OMIA:178	West Highland White Terrier	NCBITaxon:9615		15086	85
+OMIA:29	West Highland White terrier	NCBITaxon:9615		15086	85
+OMIA:2	Staffordshire Bull Terrier	NCBITaxon:9615		15076	76
+OMIA:576	Skye Terrier	NCBITaxon:9615		15074	75
+OMIA:771	wheaten terrier	NCBITaxon:9615		15075	40
+OMIA:970	Swedish Vallhund	NCBITaxon:9615		13841	14
+OMIA:1012	Welsh Pony	NCBITaxon:9796	LBO:0000919	79279	
+OMIA:937	Warmblood	NCBITaxon:9796		79277	
+OMIA:1004	Trakehner	NCBITaxon:9796	LBO:0000913	79273	
+OMIA:113	Thoroughbred	NCBITaxon:9796	LBO:0000910	79269	
+OMIA:1125	Tennessee Walking Horse	NCBITaxon:9796	LBO:0000907	79265	
+OMIA:1016	Swiss Warmblood	NCBITaxon:9796	LBO:0000932	79263	
+OMIA:132	Standardbred	NCBITaxon:9796	LBO:0000900	79257	
+OMIA:110	Shetland Pony	NCBITaxon:9796	LBO:0000890	79246	
+OMIA:293	Shetland	NCBITaxon:9796	LBO:0000890	79246	
+OMIA:133	Quarter	NCBITaxon:9796	LBO:0000878	79232	
+OMIA:16	Quarter Horse	NCBITaxon:9796	LBO:0000878	79232	
+OMIA:1044	Pinto Horse	NCBITaxon:9796	LBO:0000870	79226	
+OMIA:135	Percheron	NCBITaxon:9796	LBO:0000865	79224	
+OMIA:868	Paso Fino	NCBITaxon:9796	LBO:0000864	79222	
+OMIA:409	Palomino	NCBITaxon:9796	LBO:0000862	79220	
+OMIA:436	Oldenburg	NCBITaxon:9796	LBO:0000859	79214	
+OMIA:572	Oldenberg	NCBITaxon:9796	LBO:0000859	79214	
+OMIA:296	Newfoundland	NCBITaxon:9615		79208	
+OMIA:932	New Forest Pony	NCBITaxon:9796	LBO:0000848	79204	
+OMIA:1005	Morgan	NCBITaxon:9796	LBO:0000843	79196	
+OMIA:963	Miniature Shetland	NCBITaxon:9796		79192	
+OMIA:1023	Miniature Horse	NCBITaxon:9796		79188	
+OMIA:872	Lusitano	NCBITaxon:9796	LBO:0000830	79182	
+OMIA:1072	Lipizzan	NCBITaxon:9796	LBO:0000827	79180	
+OMIA:688	Polish Koniks	NCBITaxon:9796	LBO:0000871	79176	
+OMIA:1045	Knabstrupper	NCBITaxon:9796	LBO:0000822	79174	
+OMIA:826	Icelandic	NCBITaxon:9796	LBO:0000807	79160	
+OMIA:220	Holsteiner	NCBITaxon:9796	LBO:0000804	79151	
+OMIA:956	Haflinger	NCBITaxon:9796	LBO:0000799	79139	
+OMIA:931	German Riding Pony	NCBITaxon:9796		79133	
+OMIA:998	Friesian	NCBITaxon:9796	LBO:0000789	79129	
+OMIA:1042	Fell Pony	NCBITaxon:9796	LBO:0000782	79119	
+OMIA:906	Draft	NCBITaxon:9796		79109	
+OMIA:1043	Dales Pony	NCBITaxon:9796	LBO:0000765	79103	
+OMIA:908	Connemara pony	NCBITaxon:9796	LBO:0000762	79096	
+OMIA:136	Clydesdale	NCBITaxon:9796	LBO:0000760	79090	
+OMIA:1047	British Spotted Pony	NCBITaxon:9796		79077	
+OMIA:1082	Belgian draft horse	NCBITaxon:9796		79063	
+OMIA:686	Ardennes	NCBITaxon:9796	LBO:0000727	79051	
+OMIA:134	Arabian	NCBITaxon:9796	LBO:0000726	79049	
+OMIA:589	Appaloosa	NCBITaxon:9796	LBO:0000724	79047	
+OMIA:520	American Standardbred	NCBITaxon:9796		79037	
+OMIA:848	American Saddlebred	NCBITaxon:9796		79035	
+OMIA:427	American Quarter Horse	NCBITaxon:9796		79033	
+OMIA:1006	American Miniature Horse	NCBITaxon:9796		79031	
+OMIA:954	Akhal-Teke	NCBITaxon:9796	LBO:0000715	79023	
+OMIA:687	Fjord	NCBITaxon:9796	LBO:0000857	79019	
+OMIA:772	Hungarian komondor	NCBITaxon:9615		22648	
+OMIA:706	Karabas	NCBITaxon:9615		22639	
+OMIA:774	Rat Terrier	NCBITaxon:9615		22634	
+OMIA:401	Australian Shepherd	NCBITaxon:9615		22606	
+OMIA:1079	Miniature American Shepherd	NCBITaxon:9615		22605	
+OMIA:517	Gos d'Atura	NCBITaxon:9615		22603	
+OMIA:292	Irish Setter	NCBITaxon:9615		22597	
+OMIA:453	Shar Planinetz	NCBITaxon:9615		22591	
+OMIA:303	Brittany Spaniel	NCBITaxon:9615		22569	
+OMIA:770	Podenco dog	NCBITaxon:9615		22566	
+OMIA:1162	Australian Labradoodle	NCBITaxon:9615		22542	
+OMIA:518	Sabueso Espanol	NCBITaxon:9615		22527	
+OMIA:767	Brussels griffon	NCBITaxon:9615		22521	
+OMIA:784	Chinese Crested Dog	NCBITaxon:9615		22494	
+OMIA:814	Waller	NCBITaxon:9615		22429	
+OMIA:1027	Saarloo	NCBITaxon:9615		22425	
+OMIA:424	Miniature Pinscher	NCBITaxon:9615		22419	
+OMIA:634	Vizsla	NCBITaxon:9615		22417	
+OMIA:811	Longhaired whippet	NCBITaxon:9615		22416	
+OMIA:817	Lapponian Herder 	NCBITaxon:9615		22415	
+OMIA:1074	Irish soft-coated wheaten terrier	NCBITaxon:9615		22414	
+OMIA:831	Entlebucher mountain dog	NCBITaxon:9615		22410	
+OMIA:845	Perro de Presa Canario	NCBITaxon:9615		22409	
+OMIA:820	Dogue de Bordeaux	NCBITaxon:9615		19077	
+OMIA:1028	Czechoslovakian wolfdog	NCBITaxon:9615		19071	
+OMIA:1132	Australian Terrier	NCBITaxon:9615		19061	
+OMIA:38	Schnauzer	NCBITaxon:9615		19049	
+OMIA:149	Saint Bernard	NCBITaxon:9615		19047	
+OMIA:187	Poodle	NCBITaxon:9615		19045	
+OMIA:516	Mastin Espanol	NCBITaxon:9615		19039	
+OMIA:377	Persian	NCBITaxon:9685		18760	
+OMIA:456	New Zealand White	NCBITaxon:9986		18610	
+OMIA:1019	Netherland Dwarf	NCBITaxon:9986		18609	
+OMIA:1021	Lionhead Dwarf	NCBITaxon:9986		18584	
+OMIA:605	French	NCBITaxon:9986		18557	
+OMIA:455	Flemish Giant	NCBITaxon:9986		18552	
+OMIA:918	Checkered Giant	NCBITaxon:9986		18489	
+OMIA:604	Beveren	NCBITaxon:9986		18456	
+OMIA:37	Scottish Fold	NCBITaxon:9685		18102	
+OMIA:1160	Munchkin	NCBITaxon:9685		18098	
+OMIA:181	Manx	NCBITaxon:9685		18096	
+OMIA:893	American Bobtail	NCBITaxon:9685		18082	
+OMIA:598	Maltese	NCBITaxon:9615		17461	
+OMIA:943	Toyger	NCBITaxon:9685		15335	
+OMIA:693	Tonkanese	NCBITaxon:9685		15334	
+OMIA:824	Sphynx	NCBITaxon:9685		15333	
+OMIA:161	Siamese	NCBITaxon:9685		15326	
+OMIA:807	Siamese	NCBITaxon:9685		15326	
+OMIA:808	Siamese	NCBITaxon:9685		15326	
+OMIA:871	Selkirk Rex	NCBITaxon:9685		15322	
+OMIA:788	Ragdoll	NCBITaxon:9685		15315	
+OMIA:894	Pixie-Bob	NCBITaxon:9685		15313	
+OMIA:982	Norwegian Forest	NCBITaxon:9685		15304	
+OMIA:91	Maltese Blue	NCBITaxon:9685		15295	
+OMIA:778	Maine Coon	NCBITaxon:9685		15294	
+OMIA:865	Korat	NCBITaxon:9685		15289	
+OMIA:22	Himalayan	NCBITaxon:9685		15285	
+OMIA:852	German Rex	NCBITaxon:9685		15282	
+OMIA:888	Don Sphynx	NCBITaxon:9685		15275	
+OMIA:461	Domestic shorthair	NCBITaxon:9685		15273	
+OMIA:578	Domestic Shorthair	NCBITaxon:9685		15273	
+OMIA:1156	Domestic medium-haired	NCBITaxon:9685		15272	
+OMIA:777	Domestic Longhair	NCBITaxon:9685		15271	
+OMIA:320	Devon Rex	NCBITaxon:9685		15269	
+OMIA:822	Cornish Rex	NCBITaxon:9685		15266	
+OMIA:373	Chincilla	NCBITaxon:9615		15265	
+OMIA:761	Burmilla	NCBITaxon:9685		15259	
+OMIA:201	Burmese	NCBITaxon:9685		15258	
+OMIA:460	British shorthair	NCBITaxon:9685		15257	
+OMIA:722	British Shorthair	NCBITaxon:9685		15257	
+OMIA:927	Birman	NCBITaxon:9685		15251	
+OMIA:28	Bengal	NCBITaxon:9685		15250	
+OMIA:195	Abyssinian	NCBITaxon:9685		15238	
+OMIA:657	Borzoi	NCBITaxon:9615		15136	
+OMIA:669	Irish Wolfhound	NCBITaxon:9615		15134	
+OMIA:402	Pembroke Welsh Corgi	NCBITaxon:9615		15126	
+OMIA:21	Cardigan Welsh Corgi	NCBITaxon:9615		15124	
+OMIA:20	Corgi	NCBITaxon:9615		15123	
+OMIA:802	Corgi	NCBITaxon:9615		15123	
+OMIA:980	Welsh Corgi	NCBITaxon:9615		15123	
+OMIA:282	Weimaraner	NCBITaxon:9615		15122	
+OMIA:780	Lagotto Romagnolo	NCBITaxon:9615		15119	
+OMIA:800	Portugese water dog	NCBITaxon:9615		15118	
+OMIA:959	Hungarian Puli	NCBITaxon:9615		15117	
+OMIA:775	Tenterfield Terrier	NCBITaxon:9615		15082	
+OMIA:765	American Staffordshire terrier	NCBITaxon:9615		15079	
+OMIA:23	Soft Coated Wheaten Terrier	NCBITaxon:9615		15075	
+OMIA:357	Silky Terrier	NCBITaxon:9615		15073	
+OMIA:446	Sealyham Terrier	NCBITaxon:9615		15071	
+OMIA:244	Scottish Terrier	NCBITaxon:9615		15049	
+OMIA:951	Russell Terrier	NCBITaxon:9615		15047	
+OMIA:887	Parson Russell Terrier	NCBITaxon:9615		15044	
+OMIA:907	Norwich Terrier	NCBITaxon:9615		15043	
+OMIA:851	Norfolk terrier	NCBITaxon:9615		15042	
+OMIA:395	Manchester Terrier	NCBITaxon:9615		15036	
+OMIA:416	Lakeland Terrier	NCBITaxon:9615		15033	
+OMIA:313	Kerry Blue Terrier	NCBITaxon:9615		15032	
+OMIA:546	Jack Russell Terrier	NCBITaxon:9615		15009	
+OMIA:311	Irish Terrier	NCBITaxon:9615		15008	
+OMIA:1026	Glen of Imaal Terrier	NCBITaxon:9615		15005	
+OMIA:841	Glen of Imaal	NCBITaxon:9615		15005	
+OMIA:1064	German Hunting Terrier	NCBITaxon:9615		15004	
+OMIA:773	Toy Fox Terrier	NCBITaxon:9615		15002	
+OMIA:950	Smooth-Haired Fox Terrier	NCBITaxon:9615		15001	
+OMIA:298	Fox Terrier	NCBITaxon:9615		14999	
+OMIA:892	Dandie Dinmont Terrier	NCBITaxon:9615		14995	
+OMIA:251	Cairn Terrier	NCBITaxon:9615		14993	
+OMIA:1067	Miniature Bull Terrier	NCBITaxon:9615		14992	
+OMIA:32	Bull Terrier	NCBITaxon:9615		14965	
+OMIA:870	Brazilian Terrier	NCBITaxon:9615		14964	
+OMIA:563	Boston Terrier	NCBITaxon:9615		14963	
+OMIA:933	Black Russian Terrier	NCBITaxon:9615		14960	
+OMIA:214	Bedlington Terrier	NCBITaxon:9615		14957	
+OMIA:766	American pit bull terrier	NCBITaxon:9615		14952	
+OMIA:1096	American Hairless Terrier	NCBITaxon:9615		14951	
+OMIA:276	Airedale Terrier	NCBITaxon:9615		14929	
+OMIA:607	Terrier	NCBITaxon:9615		14927	
+OMIA:925	Japanese Spitz	NCBITaxon:9615		14918	
+OMIA:973	German Spitz	NCBITaxon:9615		14913	
+OMIA:903	Finnish Spitz	NCBITaxon:9615		14912	
+OMIA:468	English Springer Spaniel	NCBITaxon:9615		14884	
+OMIA:397	Springer Spaniel	NCBITaxon:9615		14883	
+OMIA:553	King Charles Spaniel	NCBITaxon:9615		14880	
+OMIA:948	French Spaniel	NCBITaxon:9615		14877	
+OMIA:641	Toy Spaniel	NCBITaxon:9615		14872	
+OMIA:636	English Cocker Spaniel	NCBITaxon:9615		14850	
+OMIA:764	American cocker spaniel	NCBITaxon:9615		14848	
+OMIA:50	Cocker Spaniel	NCBITaxon:9615		14846	
+OMIA:793	Clumber Spaniel	NCBITaxon:9615		14845	
+OMIA:154	Cavalier King Charles Spaniel	NCBITaxon:9615		14844	
+OMIA:464	Boykin Spaniel	NCBITaxon:9615		14841	
+OMIA:186	Spaniel	NCBITaxon:9615		14839	
+OMIA:812	Silken windhound	NCBITaxon:9615		14835	
+OMIA:683	Shih-Tzu	NCBITaxon:9615		14833	
+OMIA:810	McNab shepherd	NCBITaxon:9615		14804	
+OMIA:11	German Shepherd Dog	NCBITaxon:9615		14796	
+OMIA:452	Alsatian	NCBITaxon:9615		14796	
+OMIA:69	German shepherd	NCBITaxon:9615		14796	
+OMIA:1165	Dutch Shepherd dog	NCBITaxon:9615		14793	
+OMIA:960	Central Asian Shepherd	NCBITaxon:9615		14770	
+OMIA:559	Tervueron Shepherd	NCBITaxon:9615		14765	
+OMIA:823	Malinois	NCBITaxon:9615		14764	
+OMIA:560	Belgian Shepherd	NCBITaxon:9615		14761	
+OMIA:843	Miniature Australian shepherd	NCBITaxon:9615		14757	
+OMIA:640	Anatolian Shepherd	NCBITaxon:9615		14755	
+OMIA:668	Shepherd	NCBITaxon:9615		14752	
+OMIA:210	Shetland Sheepdog	NCBITaxon:9615		14729	
+OMIA:1070	Polski Owczarek Podhalanski	NCBITaxon:9615		14725	
+OMIA:487	Polish Owczarek Nizinny	NCBITaxon:9615		14724	
+OMIA:173	Old English Sheepdog	NCBITaxon:9615		14723	
+OMIA:308	Norwegian buhund	NCBITaxon:9615		14722	
+OMIA:1031	New Zealand Huntaway dog	NCBITaxon:9615		14721	
+OMIA:836	Schapendoes	NCBITaxon:9615		14713	
+OMIA:486	Australian Sheepdog	NCBITaxon:9615		14685	
+OMIA:312	Sheepdog	NCBITaxon:9615		14683	
+OMIA:762	Irish Red and White Setter	NCBITaxon:9615		14680	
+OMIA:242	Red Irish Setter	NCBITaxon:9615		14679	
+OMIA:491	Gordon Setter	NCBITaxon:9615		14678	
+OMIA:952	Gordon Setter	NCBITaxon:9615		14678	
+OMIA:184	English Setter	NCBITaxon:9615		14677	
+OMIA:900	Scottish Deerhound	NCBITaxon:9615		14675	
+OMIA:1119	Standard Schnauzer	NCBITaxon:9615		14673	
+OMIA:8	Miniature Schnauzer	NCBITaxon:9615		14672	
+OMIA:371	Giant Schnauzer	NCBITaxon:9615		14671	
+OMIA:325	Schipperke	NCBITaxon:9615		14650	
+OMIA:89	Samoyed	NCBITaxon:9615		14647	
+OMIA:697	Saluki	NCBITaxon:9615		14646	
+OMIA:442	Rottweiler	NCBITaxon:9615		14636	
+OMIA:157	Rhodesian Ridgeback	NCBITaxon:9615		14634	
+OMIA:745	Ridgeback	NCBITaxon:9615		14633	
+OMIA:799	Nova Scotia Duck Tolling retriever	NCBITaxon:9615		14632	
+OMIA:387	Labrador	NCBITaxon:9615		14631	
+OMIA:75	Labrador Retriever	NCBITaxon:9615		14631	
+OMIA:235	Golden Retriever	NCBITaxon:9615		14609	
+OMIA:930	Flat-coated retriever	NCBITaxon:9615		14608	
+OMIA:779	Curly-coated retriever	NCBITaxon:9615		14606	
+OMIA:537	Chesapeake Bay Retriever	NCBITaxon:9615		14605	
+OMIA:804	Chesapeake Bay Retriever	NCBITaxon:9615		14605	
+OMIA:388	Retriever	NCBITaxon:9615		14604	
+OMIA:393	Pug	NCBITaxon:9615		14599	
+OMIA:349	Toy Poodle	NCBITaxon:9615		14595	
+OMIA:278	Standard Poodle	NCBITaxon:9615		14594	
+OMIA:172	Miniature Poodle	NCBITaxon:9615		14593	
+OMIA:196	Pomeranian	NCBITaxon:9615		14591	
+OMIA:1025	Large Munster-lander	NCBITaxon:9615		14563	
+OMIA:873	German Wirehaired Pointer	NCBITaxon:9615		14558	
+OMIA:463	German Shorthaired Pointer	NCBITaxon:9615		14557	
+OMIA:846	German pointer	NCBITaxon:9615		14553	
+OMIA:199	English Pointer	NCBITaxon:9615		14530	
+OMIA:1133	Braque du Bourbonnais	NCBITaxon:9615		14529	
+OMIA:396	Pointer	NCBITaxon:9615		14527	
+OMIA:619	German Pinscher	NCBITaxon:9615		14524	
+OMIA:84	Doberman Pinscher	NCBITaxon:9615		14523	
+OMIA:1017	Phal̬ne	NCBITaxon:9615		14516	
+OMIA:783	Peruvian Hairless Dog (Inca Hairless)	NCBITaxon:9615		14514	
+OMIA:786	Pekingese	NCBITaxon:9615		14511	
+OMIA:759	Papillon	NCBITaxon:9615		14488	
+OMIA:575	Lundehund	NCBITaxon:9615		14478	
+OMIA:725	Landseer Newfoundland	NCBITaxon:9615		14477	
+OMIA:899	Landseer	NCBITaxon:9615		14477	
+OMIA:1130	Pyrenean Mountain Dog	NCBITaxon:9615		14448	
+OMIA:818	Great Pyrenees	NCBITaxon:9615		14448	
+OMIA:879	Greater Swiss Mountain	NCBITaxon:9615		14447	
+OMIA:104	Bernese Mountain dog	NCBITaxon:9615		14443	
+OMIA:782	Mexican Hairless Dog (Xoloitzcuintli)	NCBITaxon:9615		14434	
+OMIA:819	Italian Cane Corso	NCBITaxon:9615		14403	
+OMIA:740	English Mastiff	NCBITaxon:9615		14401	
+OMIA:781	Mastiff	NCBITaxon:9615		14368	
+OMIA:483	Lhasa Apso	NCBITaxon:9615		14363	
+OMIA:916	Leonberger	NCBITaxon:9615		14361	
+OMIA:760	Finnish Lapphund	NCBITaxon:9615		14359	
+OMIA:921	Kromfohrl�_nder	NCBITaxon:9615		14323	
+OMIA:880	Dutch Kooiker	NCBITaxon:9615		14318	
+OMIA:1086	Komondor	NCBITaxon:9615		14317	
+OMIA:345	Keeshond	NCBITaxon:9615		14312	
+OMIA:599	Carelian Beardogs	NCBITaxon:9615		14311	
+OMIA:832	Karelian bear dog	NCBITaxon:9615		14311	
+OMIA:689	Shiba	NCBITaxon:9615		14287	
+OMIA:902	Shiba-Inu	NCBITaxon:9615		14287	
+OMIA:885	Japanese Chin dog	NCBITaxon:9615		14286	
+OMIA:955	Italian Spinone	NCBITaxon:9615		14284	
+OMIA:1104	Northern Inuit Dog	NCBITaxon:9615		14283	
+OMIA:805	American Eskimo dog	NCBITaxon:9615		14280	
+OMIA:801	Alaskan Husky	NCBITaxon:9615		14272	
+OMIA:1157	Hungarian pumi	NCBITaxon:9615		14247	
+OMIA:1158	Hungarian mudi	NCBITaxon:9615		14246	
+OMIA:833	Kuvasz	NCBITaxon:9615		14245	
+OMIA:1030	Plott Hound	NCBITaxon:9615		14202	
+OMIA:703	Norwegian Dunkerhound	NCBITaxon:9615		14200	
+OMIA:944	Italian hound	NCBITaxon:9615		14196	
+OMIA:859	Finnish Hound	NCBITaxon:9615		14163	
+OMIA:182	Basset Hound	NCBITaxon:9615		14129	
+OMIA:213	Afghan Hound	NCBITaxon:9615		14121	
+OMIA:798	Lancashire heeler	NCBITaxon:9615		14118	
+OMIA:633	Hovawart	NCBITaxon:9615		14088	
+OMIA:803	Wirehaired Griffon	NCBITaxon:9615		14084	
+OMIA:1102	Petit Basset Griffon Vend̩en	NCBITaxon:9615		14075	
+OMIA:787	Grand Basset Griffon Vendeen	NCBITaxon:9615		14074	
+OMIA:1084	Galgo Espa̱ol	NCBITaxon:9615		14072	
+OMIA:1024	Italian Greyhound	NCBITaxon:9615		14047	
+OMIA:1085	Magyar Ag��r	NCBITaxon:9615		14046	
+OMIA:198	Greyhound	NCBITaxon:9615		14040	
+OMIA:339	Great Dane	NCBITaxon:9615		14037	
+OMIA:945	American Foxhound	NCBITaxon:9615		14007	
+OMIA:457	Foxhound	NCBITaxon:9615		14006	
+OMIA:926	Eurasier	NCBITaxon:9615		13997	
+OMIA:379	Norwegian Elkhound	NCBITaxon:9615		13994	
+OMIA:350	Elkhound	NCBITaxon:9615		13993	
+OMIA:1154	Danish-Swedish farmdog	NCBITaxon:9615		13964	
+OMIA:179	Dalmatian	NCBITaxon:9615		13962	
+OMIA:10	Wire-haired dachshund	NCBITaxon:9615		13961	
+OMIA:842	Standard wire-haired dachshund	NCBITaxon:9615		13961	
+OMIA:964	Miniature Wirehaired Dachshund	NCBITaxon:9615		13957	
+OMIA:839	Miniature Long-haired Dachsund	NCBITaxon:9615		13955	
+OMIA:150	Dachshund	NCBITaxon:9615		13952	
+OMIA:1100	Alpine Dachsbracke	NCBITaxon:9615		13928	
+OMIA:949	Alpenl�_ndische Dachsbracke	NCBITaxon:9615		13928	
+OMIA:910	Catahoula leopard dogs	NCBITaxon:9615		13919	
+OMIA:815	Mixed breed	NCBITaxon:9615		13916	
+OMIA:821	Mixed breed	NCBITaxon:9615		13916	
+OMIA:835	Mongrel	NCBITaxon:9615		13916	
+OMIA:816	Coton de Tulear	NCBITaxon:9615		13914	
+OMIA:274	Walker Hound	NCBITaxon:9615		13913	
+OMIA:602	Bluetick Hound	NCBITaxon:9615		13889	
+OMIA:1153	American English Coonhound	NCBITaxon:9615		13887	
+OMIA:327	Border Collie	NCBITaxon:9615		13883	
+OMIA:430	Bearded Collie	NCBITaxon:9615		13882	
+OMIA:13	collie	NCBITaxon:9615		13879	
+OMIA:80	Collie	NCBITaxon:9615		13879	
+OMIA:809	Collie 	NCBITaxon:9615		13879	
+OMIA:307	Chow Chow	NCBITaxon:9615		13876	
+OMIA:573	Chow	NCBITaxon:9615		13876	
+OMIA:381	Chinese Shar-Pei	NCBITaxon:9615		13873	
+OMIA:957	Shar-Pei	NCBITaxon:9615		13873	
+OMIA:305	Australian Cattle Dog	NCBITaxon:9615		13833	
+OMIA:1091	French Bulldog	NCBITaxon:9615		13768	
+OMIA:769	French bull dog	NCBITaxon:9615		13768	
+OMIA:240	English Bulldog	NCBITaxon:9615		13765	
+OMIA:806	American Bulldog	NCBITaxon:9615		13761	
+OMIA:265	Bulldog	NCBITaxon:9615		13759	
+OMIA:4	Briard	NCBITaxon:9615		13756	
+OMIA:68	German Boxer	NCBITaxon:9615		13727	
+OMIA:7	Boxer	NCBITaxon:9615		13724	
+OMIA:758	Bichon Frise	NCBITaxon:9615		13714	
+OMIA:85	Beagle	NCBITaxon:9615		13683	
+OMIA:936	Basset Fauve de Bretagne	NCBITaxon:9615		13682	
+OMIA:212	Basenji	NCBITaxon:9615		13678	
+OMIA:1129	Australian Kelpie	NCBITaxon:9615		13675	
+OMIA:170	Alaskan Malamute	NCBITaxon:9615		13642	
+OMIA:550	Malamute	NCBITaxon:9615		13642	
+OMIA:953	Alaskan Klee Kai	NCBITaxon:9615		13641	
+OMIA:1090	American Akita	NCBITaxon:9615		13639	
+OMIA:981	Akita	NCBITaxon:9615		13638	
+OMIA:929	Boerboel	NCBITaxon:9615		13635	
+OMIA:983	Somali	NCBITaxon:9685		7355	
+OMIA:744	Bouvier	NCBITaxon:9615		7351	
+OMIA:306	Chihuahua	NCBITaxon:9615		7347	
+OMIA:100	Red Spotted Czech	NCBITaxon:9913			
+OMIA:1001	Eskimo Spitz	NCBITaxon:9615			
+OMIA:1002	Chinese Xingyi	NCBITaxon:9031			
+OMIA:1003	Japanese game fowl	NCBITaxon:9031			
+OMIA:1008	Bama miniature	NCBITaxon:9823			
+OMIA:1009	Mongolian Turano	NCBITaxon:9913			
+OMIA:1010	Camarillo White Horse	NCBITaxon:9796			
+OMIA:1011	Japanese Draft	NCBITaxon:9796			
+OMIA:1013	Noriker	NCBITaxon:9796			
+OMIA:1014	Gipsy	NCBITaxon:9796			
+OMIA:1015	South German Draft	NCBITaxon:9796			
+OMIA:1020	Loh	NCBITaxon:9986			
+OMIA:1022	Danish Holstein	NCBITaxon:9913			
+OMIA:1029	Swedish Briard 	NCBITaxon:9615			
+OMIA:1033	German Holstein	NCBITaxon:9913			
+OMIA:1034	Swiss Holstein	NCBITaxon:9913			
+OMIA:1035	Friesian-Jersey mosaic	NCBITaxon:9913			
+OMIA:1036	American Brown Swiss	NCBITaxon:9913			
+OMIA:1037	Beef Booster Composite	NCBITaxon:9913			
+OMIA:1040	Norwegian breeds	NCBITaxon:9940			
+OMIA:1048	Australian Spotted Pony	NCBITaxon:9796			
+OMIA:1050	Wisconsin hypoalpha mutant (WHAM)	NCBITaxon:9031			
+OMIA:1051	Connecticut (CT) strain	NCBITaxon:9031			
+OMIA:1052	S2 line	NCBITaxon:9031			
+OMIA:1053	Fayoumi eplipeptic strain	NCBITaxon:9031			
+OMIA:1054	Huiyang Bearded	NCBITaxon:9031			
+OMIA:1055	NH-413 strain	NCBITaxon:9031			
+OMIA:1056	OPN strain	NCBITaxon:9031			
+OMIA:1057	Polymorphic Nucleolar (PNU) strain	NCBITaxon:9031			
+OMIA:1058	ISA Brown	NCBITaxon:9031			
+OMIA:1059	Lohmann Brown	NCBITaxon:9031			
+OMIA:1060	Marans	NCBITaxon:9031			
+OMIA:1061	TETRA	NCBITaxon:9031			
+OMIA:1063	Beijing You	NCBITaxon:9031			
+OMIA:1065	Limonero	NCBITaxon:9913			
+OMIA:1068	Commercial lines	NCBITaxon:9103			
+OMIA:1069	Polski Owczarek Nizinny	NCBITaxon:9615			
+OMIA:1071	FH-r strain	NCBITaxon:9823			
+OMIA:1073	Rouge-des-Pr̩s	NCBITaxon:9913			
+OMIA:1075	Schnauzer-Beagle cross	NCBITaxon:9615			
+OMIA:1076	Normand	NCBITaxon:9793			
+OMIA:1077	miniature donkey	NCBITaxon:9793			
+OMIA:1080	Italian Holstein	NCBITaxon:9913			
+OMIA:1081	Italian Holstein	NCBITaxon:9913			
+OMIA:1083	American Bully	NCBITaxon:9615			
+OMIA:1088	American Bashkir Curly horse	NCBITaxon:9796			
+OMIA:1094	Miniature Zebu	NCBITaxon:9913			
+OMIA:1095	Scottish Highland	NCBITaxon:9913			
+OMIA:1097	Spanish horse	NCBITaxon:9796			
+OMIA:1098	Standardbred �� Tennessee Walking Horse cross	NCBITaxon:9796			
+OMIA:1099	Purebred Spanish horse	NCBITaxon:9796			
+OMIA:1106	V�_rmland	NCBITaxon:9940			
+OMIA:1107	Helsinge	NCBITaxon:9940			
+OMIA:1108	Kl̦vsj̦	NCBITaxon:9940			
+OMIA:1111	Tux-Zillertaler	NCBITaxon:9913			
+OMIA:1113	British Gloucester	NCBITaxon:9913			
+OMIA:1115	Eringer	NCBITaxon:9913			
+OMIA:1117	French Holstein	NCBITaxon:9913			
+OMIA:1118	Valais Red	NCBITaxon:9940			
+OMIA:112	Dorset Horn	NCBITaxon:9940			
+OMIA:1120	Cinta Senese	NCBITaxon:9823			
+OMIA:1121	Mexican Pelibuey	NCBITaxon:9940			
+OMIA:1122	Gypsy	NCBITaxon:9796			
+OMIA:1123	Istrian Pramenka	NCBITaxon:9940			
+OMIA:1124	Mie-Jidori	NCBITaxon:9031			
+OMIA:1126	Norwegian Dairy Goat	NCBITaxon:9925			
+OMIA:1127	Synthetic	NCBITaxon:9823			
+OMIA:1131	Pit Bull Terrier	NCBITaxon:9615			
+OMIA:1137	Yakutian	NCBITaxon:9913			
+OMIA:1138	Gurtenvieh	NCBITaxon:9913			
+OMIA:114	Sardinian	NCBITaxon:9925			
+OMIA:1140	Gang	NCBITaxon:8843			
+OMIA:1141	Pak angora	NCBITaxon:9925			
+OMIA:1142	Uckerm�_rker	NCBITaxon:9913			
+OMIA:1146	Girgentana	NCBITaxon:9925			
+OMIA:1149	Chamois Colored	NCBITaxon:9925			
+OMIA:1152	Bezoar	NCBITaxon:9925			
+OMIA:1155	Ural Rex	NCBITaxon:9685			
+OMIA:1159	Lykoi	NCBITaxon:9685			
+OMIA:116	White Leghorn	NCBITaxon:9031			
+OMIA:1161	Swiss Large White	NCBITaxon:9823			
+OMIA:1163	Zwartbles	NCBITaxon:9940			
+OMIA:1164	Berber	NCBITaxon:9796			
+OMIA:1166	Belgian Blue�ېHolstein cross	NCBITaxon:9913			
+OMIA:1167	Yimeng	NCBITaxon:9031			
+OMIA:1168	Yucatan miniature pig	NCBITaxon:9823			
+OMIA:117	Black Minorca	NCBITaxon:9031			
+OMIA:123	Tsigai	NCBITaxon:9940			
+OMIA:129	Black Pied Danish	NCBITaxon:9913			
+OMIA:130	Greenleg	NCBITaxon:9031			
+OMIA:131	Swedish Red and White 	NCBITaxon:9913			
+OMIA:138	Leicester	NCBITaxon:9940			
+OMIA:139	Oxforddown	NCBITaxon:9940			
+OMIA:141	Marsh	NCBITaxon:9940			
+OMIA:142	Spotted Mountain	NCBITaxon:9913			
+OMIA:143	Brown German	NCBITaxon:9913			
+OMIA:144	Yellow Hill	NCBITaxon:9913			
+OMIA:145	Pinzgau	NCBITaxon:9913			
+OMIA:147	Wessex	NCBITaxon:9823			
+OMIA:151	Banteng (Bali)	NCBITaxon:9913			
+OMIA:153	Shortcoated Setter	NCBITaxon:9615			
+OMIA:155	Belgian White and Blue Pied	NCBITaxon:9913			
+OMIA:156	Alsation	NCBITaxon:9615			
+OMIA:159	Manguni	NCBITaxon:9913			
+OMIA:163	Podolian	NCBITaxon:9913			
+OMIA:164	Apulian	NCBITaxon:9913			
+OMIA:168	British White Park	NCBITaxon:9913			
+OMIA:171	Grauvieh	NCBITaxon:9913			
+OMIA:174	Alpine Grey	NCBITaxon:9913			
+OMIA:180	Vendee	NCBITaxon:9940			
+OMIA:188	Angoni	NCBITaxon:9913			
+OMIA:194	South Hampshire	NCBITaxon:9940			
+OMIA:197	Australian Illawarra Shorthorn	NCBITaxon:9913			
+OMIA:200	Light Brown Leghorn	NCBITaxon:9031			
+OMIA:202	Romagna	NCBITaxon:9913			
+OMIA:203	Pied Hungarian	NCBITaxon:9913			
+OMIA:206	Red	NCBITaxon:9913			
+OMIA:207	Red and White	NCBITaxon:9913			
+OMIA:208	Black Pied Swiss	NCBITaxon:9913			
+OMIA:209	Franconian	NCBITaxon:9913			
+OMIA:217	Saraja	NCBITaxon:9940			
+OMIA:219	Kazakh Finewool	NCBITaxon:9940			
+OMIA:221	Piedmont	NCBITaxon:9913			
+OMIA:223	Fulani	NCBITaxon:9940			
+OMIA:224	Maure	NCBITaxon:9940			
+OMIA:225	Bororo	NCBITaxon:9940			
+OMIA:229	Bavarian Allgau	NCBITaxon:9913			
+OMIA:230	Murciana Granadina	NCBITaxon:9925			
+OMIA:231	Black Pied Lowland	NCBITaxon:9913			
+OMIA:232	Barotse	NCBITaxon:9913			
+OMIA:233	Tonga	NCBITaxon:9913			
+OMIA:234	Black Japanese	NCBITaxon:9913			
+OMIA:236	Black and White Dutch	NCBITaxon:9913			
+OMIA:237	Red and White Dutch	NCBITaxon:9913			
+OMIA:238	German Brown	NCBITaxon:9913			
+OMIA:239	Grey Collie	NCBITaxon:9615			
+OMIA:241	Nilagiri	NCBITaxon:9940			
+OMIA:243	Red Holstein	NCBITaxon:9913			
+OMIA:245	Sebright	NCBITaxon:9031			
+OMIA:246	Podolian Grey Steppe	NCBITaxon:9913			
+OMIA:248	Wensleydown	NCBITaxon:9940			
+OMIA:249	Avilena	NCBITaxon:9913			
+OMIA:25	Tasmanian Merino	NCBITaxon:9940			
+OMIA:250	Lowland Swedish	NCBITaxon:9913			
+OMIA:252	Ala Tau	NCBITaxon:9913			
+OMIA:254	Nile	NCBITaxon:9913			
+OMIA:255	Polled Shorthorn?	NCBITaxon:9913			
+OMIA:256	Pitangueiras	NCBITaxon:9913			
+OMIA:258	Dalmatian Coach Hound	NCBITaxon:9615			
+OMIA:261	Jamunapari	NCBITaxon:9925			
+OMIA:264	Chillingham	NCBITaxon:9913			
+OMIA:268	Doberman Pincher	NCBITaxon:9615			
+OMIA:270	Moscow	NCBITaxon:9031			
+OMIA:271	White Plymouth Rock	NCBITaxon:9031			
+OMIA:273	Pashmina	NCBITaxon:9925			
+OMIA:275	Galway	NCBITaxon:9940			
+OMIA:283	Kumauni Hill	NCBITaxon:9913			
+OMIA:285	Magra	NCBITaxon:9940			
+OMIA:286	Flemisch	NCBITaxon:9940			
+OMIA:287	Swedish Lowland	NCBITaxon:9913			
+OMIA:288	Black and White German	NCBITaxon:9913			
+OMIA:289	Red and White Westphalian	NCBITaxon:9913			
+OMIA:290	Nganda	NCBITaxon:9913			
+OMIA:291	Barrosa	NCBITaxon:9913			
+OMIA:294	Romanovsky	NCBITaxon:9940			
+OMIA:297	Broad Breasted White	NCBITaxon:9103			
+OMIA:299	Bavarian Grey Iskur	NCBITaxon:9913			
+OMIA:30	Maltese Terriers	NCBITaxon:9615			
+OMIA:300	Fribourg	NCBITaxon:9913			
+OMIA:301	Sindhi	NCBITaxon:9913			
+OMIA:304	Murnau Werdenfelser	NCBITaxon:9913			
+OMIA:309	Red Pied Aosta	NCBITaxon:9913			
+OMIA:31	Japanese Black	NCBITaxon:9913			
+OMIA:310	White Wyandotte	NCBITaxon:9031			
+OMIA:314	Black Welsh	NCBITaxon:9913			
+OMIA:316	Toy Griffon	NCBITaxon:9615			
+OMIA:317	Black Pied German	NCBITaxon:9913			
+OMIA:318	Jiaxing	NCBITaxon:9823			
+OMIA:319	Laconie	NCBITaxon:9823			
+OMIA:322	Grivette	NCBITaxon:9940			
+OMIA:323	Solognot	NCBITaxon:9940			
+OMIA:329	Saluke	NCBITaxon:9615			
+OMIA:330	Japanese Brown	NCBITaxon:9913			
+OMIA:331	Sokolka	NCBITaxon:9940			
+OMIA:333	Red Bulgarian	NCBITaxon:9913			
+OMIA:334	Minnesota	NCBITaxon:9823			
+OMIA:335	Blue and White Belgian	NCBITaxon:9913			
+OMIA:336	Racing Homer	NCBITaxon:8932			
+OMIA:337	White Carneau	NCBITaxon:8932			
+OMIA:34	German Pie	NCBITaxon:9823			
+OMIA:341	Brown Leghorn	NCBITaxon:9031			
+OMIA:342	Brown Italian	NCBITaxon:9913			
+OMIA:343	Wallachian	NCBITaxon:9940			
+OMIA:344	Cigaja	NCBITaxon:9940			
+OMIA:346	West Highland	NCBITaxon:9913			
+OMIA:347	Central Belgian	NCBITaxon:9913			
+OMIA:348	Upper Belgian	NCBITaxon:9913			
+OMIA:35	Finnish Landrace	NCBITaxon:9940			
+OMIA:351	Najdi	NCBITaxon:9940			
+OMIA:352	Hejazi	NCBITaxon:9940			
+OMIA:353	White Fulani	NCBITaxon:9913			
+OMIA:355	Black Castilian	NCBITaxon:9031			
+OMIA:356	Barred Utreranian	NCBITaxon:9031			
+OMIA:358	Hyfer	NCBITaxon:9940			
+OMIA:360	Airedale	NCBITaxon:9615			
+OMIA:364	Krankrej	NCBITaxon:9913			
+OMIA:366	Red Japanese	NCBITaxon:9913			
+OMIA:367	Normandy	NCBITaxon:9913			
+OMIA:368	Crioula Lanada	NCBITaxon:9940			
+OMIA:369	Crioula	NCBITaxon:9940			
+OMIA:370	Lacha	NCBITaxon:9940			
+OMIA:372	Drenthe	NCBITaxon:9940			
+OMIA:375	Wuttemberg Merino	NCBITaxon:9940			
+OMIA:376	Leine	NCBITaxon:9940			
+OMIA:378	Doberman	NCBITaxon:9615			
+OMIA:382	Dobermann	NCBITaxon:9615			
+OMIA:385	Sur	NCBITaxon:9940			
+OMIA:386	Red Setter	NCBITaxon:9615			
+OMIA:389	Rough Collie	NCBITaxon:9615			
+OMIA:39	Friesian	NCBITaxon:9913			
+OMIA:390	Estonian Bacon	NCBITaxon:9823			
+OMIA:391	Red Dane	NCBITaxon:9913			
+OMIA:392	White Czecholslovakian	NCBITaxon:9823			
+OMIA:394	Alpen	NCBITaxon:9925			
+OMIA:399	White Rock	NCBITaxon:9031			
+OMIA:403	Red Spotted Hungarian	NCBITaxon:9913			
+OMIA:404	Red and White Norwegian	NCBITaxon:9913			
+OMIA:406	Bighorn	NCBITaxon:9940			
+OMIA:407	Camborough	NCBITaxon:9823			
+OMIA:408	Pekinese	NCBITaxon:9615			
+OMIA:41	Poll Dorset	NCBITaxon:9940			
+OMIA:411	Polish Mountain	NCBITaxon:9940			
+OMIA:412	Polish Zackel	NCBITaxon:9940			
+OMIA:413	Kent	NCBITaxon:9940			
+OMIA:414	Fryz	NCBITaxon:9940			
+OMIA:415	Chiana	NCBITaxon:9913			
+OMIA:42	Cairn terrier	NCBITaxon:9615			
+OMIA:420	Teso	NCBITaxon:9913			
+OMIA:422	Shorthorned Zebu	NCBITaxon:9913			
+OMIA:423	Rhode Island	NCBITaxon:9031			
+OMIA:426	Pisa	NCBITaxon:9913			
+OMIA:434	Brown Russian	NCBITaxon:9913			
+OMIA:438	Red Spotted	NCBITaxon:9913			
+OMIA:440	Broad Breasted Bronze	NCBITaxon:9103			
+OMIA:443	Fyoumi	NCBITaxon:9031			
+OMIA:444	Marche	NCBITaxon:9913			
+OMIA:445	Swedish Highland	NCBITaxon:9913			
+OMIA:447	Swedish Mountain	NCBITaxon:9913			
+OMIA:448	Red and white Swedish	NCBITaxon:9913			
+OMIA:45	Golden Campine	NCBITaxon:9031			
+OMIA:450	Essex	NCBITaxon:9823			
+OMIA:458	White Chinese	NCBITaxon:8848			
+OMIA:462	Bull Mastiff	NCBITaxon:9615			
+OMIA:465	Brown Sofia	NCBITaxon:9913			
+OMIA:467	Edelschwein	NCBITaxon:9823			
+OMIA:469	North Caucasian	NCBITaxon:9940			
+OMIA:470	German Long-wool	NCBITaxon:9940			
+OMIA:471	Rubia Gallega	NCBITaxon:9913			
+OMIA:473	Casco de Mula	NCBITaxon:9823			
+OMIA:475	Angler	NCBITaxon:9913			
+OMIA:476	Red and White German	NCBITaxon:9913			
+OMIA:477	Barred Plymouth Rock	NCBITaxon:9031			
+OMIA:479	East African Shorthorn Zebu	NCBITaxon:9913			
+OMIA:480	Bohemian White	NCBITaxon:9823			
+OMIA:481	East African Zebu	NCBITaxon:9913			
+OMIA:482	Elliottdale	NCBITaxon:9940			
+OMIA:484	Damascus	NCBITaxon:9925			
+OMIA:485	Namaqua	NCBITaxon:9940			
+OMIA:488	Red Brahman	NCBITaxon:9913			
+OMIA:489	Indubrazil	NCBITaxon:9913			
+OMIA:490	White Jaidara	NCBITaxon:9940			
+OMIA:492	Brown Alpine	NCBITaxon:9913			
+OMIA:493	Bohemian Large White	NCBITaxon:9823			
+OMIA:495	Black and White Lowland	NCBITaxon:9913			
+OMIA:496	Merino Fleisch Schafe	NCBITaxon:9940			
+OMIA:498	Black and White Polish	NCBITaxon:9913			
+OMIA:5	Canastrao	NCBITaxon:9823			
+OMIA:500	Chinchilla	NCBITaxon:10152			
+OMIA:501	Urshumskaya	NCBITaxon:9823			
+OMIA:502	Schwerfurt	NCBITaxon:9823			
+OMIA:504	Black Bengal	NCBITaxon:9925			
+OMIA:505	Black and White	NCBITaxon:9913			
+OMIA:506	Jack Russel Terrier	NCBITaxon:9615			
+OMIA:507	Columbian Rock	NCBITaxon:9031			
+OMIA:509	Gaddi	NCBITaxon:9940			
+OMIA:510	Brown Swiss x Braunvieh	NCBITaxon:9913			
+OMIA:511	Small African Zebu	NCBITaxon:9913			
+OMIA:512	Borana	NCBITaxon:9913			
+OMIA:513	Spotted Hungarian	NCBITaxon:9913			
+OMIA:514	Black MInorca	NCBITaxon:9031			
+OMIA:515	Mastin del Pirineo	NCBITaxon:9615			
+OMIA:519	White Tzagai	NCBITaxon:9940			
+OMIA:522	Wrzosowka	NCBITaxon:9940			
+OMIA:523	Baoule	NCBITaxon:9913			
+OMIA:524	Ganjam	NCBITaxon:9913			
+OMIA:525	Hungarian Red Spotted	NCBITaxon:9913			
+OMIA:526	Red Pied Lowland	NCBITaxon:9913			
+OMIA:528	Red German	NCBITaxon:9913			
+OMIA:530	Patanwadi	NCBITaxon:9940			
+OMIA:532	Colombian	NCBITaxon:9913			
+OMIA:533	Criolla	NCBITaxon:9913			
+OMIA:534	Vacas de lidia	NCBITaxon:9913			
+OMIA:536	Caracu	NCBITaxon:9913			
+OMIA:538	Red Norwegian	NCBITaxon:9913			
+OMIA:542	Light Sussex	NCBITaxon:9031			
+OMIA:543	Single Comb White Leghorn	NCBITaxon:9031			
+OMIA:544	White Pekin	NCBITaxon:8835			
+OMIA:548	Black Leghorn	NCBITaxon:9031			
+OMIA:549	Flemish Milksheep	NCBITaxon:9940			
+OMIA:552	Red Belgian	NCBITaxon:9913			
+OMIA:555	Gascon-Meishan	NCBITaxon:9823			
+OMIA:556	Red Pied	NCBITaxon:9913			
+OMIA:557	Shorthorn West African	NCBITaxon:9913			
+OMIA:558	Sardinian Lowland	NCBITaxon:9940			
+OMIA:562	Deutsches Edelschwein	NCBITaxon:9823			
+OMIA:564	Groningen	NCBITaxon:9913			
+OMIA:565	White Cornish	NCBITaxon:9031			
+OMIA:567	Gyr	NCBITaxon:9913			
+OMIA:570	Coloursided Tronder	NCBITaxon:9913			
+OMIA:574	Brown Mountain	NCBITaxon:9913			
+OMIA:579	Black and White Danish	NCBITaxon:9913			
+OMIA:582	Tabapuan	NCBITaxon:9913			
+OMIA:584	Polbar	NCBITaxon:9031			
+OMIA:585	Polish Greenleg	NCBITaxon:9031			
+OMIA:587	Desi	NCBITaxon:9823			
+OMIA:588	Madras Red	NCBITaxon:9940			
+OMIA:590	Creole	NCBITaxon:9925			
+OMIA:591	White American	NCBITaxon:9031			
+OMIA:592	Black and White Swiss	NCBITaxon:9913			
+OMIA:593	Sofia Brown	NCBITaxon:9913			
+OMIA:594	Montafon	NCBITaxon:9913			
+OMIA:595	Brown Bavarian	NCBITaxon:9913			
+OMIA:596	Tyrolean Grey	NCBITaxon:9913			
+OMIA:597	Red Friesian	NCBITaxon:9913			
+OMIA:6	Indonesian Thin Tail	NCBITaxon:9940			
+OMIA:601	Fribourg Black Spotted	NCBITaxon:9913			
+OMIA:603	White Polled Short Hair	NCBITaxon:9925			
+OMIA:606	Girolanda	NCBITaxon:9913			
+OMIA:608	German Simmental	NCBITaxon:9913			
+OMIA:609	Red Bohemian	NCBITaxon:9913			
+OMIA:610	Pied Bohemian	NCBITaxon:9913			
+OMIA:611	Pied Slovak	NCBITaxon:9913			
+OMIA:612	protein	NCBITaxon:9986			
+OMIA:614	Hungarian White	NCBITaxon:9823			
+OMIA:615	Block Spotted	NCBITaxon:9913			
+OMIA:616	Spael	NCBITaxon:9940			
+OMIA:62	Blue Andalusian	NCBITaxon:9031			
+OMIA:620	Tzigaia	NCBITaxon:9940			
+OMIA:621	Sirohi	NCBITaxon:9925			
+OMIA:622	Miniature Toy Poodle	NCBITaxon:9615			
+OMIA:623	Choka	NCBITaxon:9940			
+OMIA:624	Nali	NCBITaxon:9940			
+OMIA:625	Karakachan	NCBITaxon:9940			
+OMIA:626	Wurttemberg Merino	NCBITaxon:9940			
+OMIA:629	East Friesian	NCBITaxon:9940			
+OMIA:63	Silver Spangled Hamburgh	NCBITaxon:9031			
+OMIA:630	German Heath	NCBITaxon:9940			
+OMIA:631	Rhon	NCBITaxon:9940			
+OMIA:632	Bentheim	NCBITaxon:9940			
+OMIA:635	Bull mastiff	NCBITaxon:9615			
+OMIA:637	Black and White Belgian	NCBITaxon:9913			
+OMIA:638	Dagestan White	NCBITaxon:9925			
+OMIA:639	Comiaana	NCBITaxon:9940			
+OMIA:64	Silver Sebright	NCBITaxon:9031			
+OMIA:642	Beltsville	NCBITaxon:9823			
+OMIA:643	Tharparkar	NCBITaxon:9913			
+OMIA:646	Kelpie	NCBITaxon:9615			
+OMIA:649	Red Spotted Simmental	NCBITaxon:9913			
+OMIA:651	Pied	NCBITaxon:9913			
+OMIA:652	Swedish Finewool Landrace	NCBITaxon:9940			
+OMIA:653	Gascony	NCBITaxon:9823			
+OMIA:654	Black Pied Basque	NCBITaxon:9823			
+OMIA:656	Tate de Mouton	NCBITaxon:9913			
+OMIA:658	Red Pied Swedish	NCBITaxon:9913			
+OMIA:659	Shorthorn Friesian	NCBITaxon:9913			
+OMIA:66	Zebu	NCBITaxon:9913			
+OMIA:660	Est a Laine Merino	NCBITaxon:9940			
+OMIA:661	Prealpes	NCBITaxon:9940			
+OMIA:662	Communes des Alpes	NCBITaxon:9940			
+OMIA:663	Ausimi	NCBITaxon:9940			
+OMIA:664	Osimi	NCBITaxon:9940			
+OMIA:665	Rahmani	NCBITaxon:9940			
+OMIA:671	Wakwa	NCBITaxon:9913			
+OMIA:672	West Highland Terrier	NCBITaxon:9615			
+OMIA:673	Webster Terrier	NCBITaxon:9615			
+OMIA:674	African Dwarf	NCBITaxon:9925			
+OMIA:675	German Improved	NCBITaxon:9925			
+OMIA:676	Kenana	NCBITaxon:9913			
+OMIA:677	Butana	NCBITaxon:9913			
+OMIA:678	Western (Sudanese)	NCBITaxon:9913			
+OMIA:682	Black and White Polish Lowland	NCBITaxon:9913			
+OMIA:684	Gold Coast Shorthorn	NCBITaxon:9913			
+OMIA:685	Poznan	NCBITaxon:9796			
+OMIA:690	White and Blue Belgian	NCBITaxon:9913			
+OMIA:691	Red Abyssinian	NCBITaxon:9685			
+OMIA:692	Red Point Siamese	NCBITaxon:9685			
+OMIA:695	Sykia Chalkidiki	NCBITaxon:9913			
+OMIA:696	Aosta	NCBITaxon:9913			
+OMIA:698	Shuwa Arab	NCBITaxon:9913			
+OMIA:699	Muturu West African	NCBITaxon:9913			
+OMIA:70	Rocky Mountain	NCBITaxon:37174			
+OMIA:700	Dwarf Shorthorn	NCBITaxon:9913			
+OMIA:701	Erminette	NCBITaxon:9031			
+OMIA:702	Red Pied Flemish	NCBITaxon:9913			
+OMIA:704	Keezhakkaraisal	NCBITaxon:9940			
+OMIA:705	Black Spotted Swiss	NCBITaxon:9913			
+OMIA:707	Bunaji	NCBITaxon:9913			
+OMIA:708	Toyen	NCBITaxon:9823			
+OMIA:709	Middle Black Masked	NCBITaxon:9823			
+OMIA:71	Red Polish	NCBITaxon:9913			
+OMIA:710	Small Red	NCBITaxon:9823			
+OMIA:711	Small Black	NCBITaxon:9823			
+OMIA:712	Kalmyk	NCBITaxon:9913			
+OMIA:714	Shuwa	NCBITaxon:9913			
+OMIA:715	Kedah Kelantan	NCBITaxon:9913			
+OMIA:718	Pomurslo	NCBITaxon:9940			
+OMIA:719	Pramenka	NCBITaxon:9940			
+OMIA:72	Red Danish	NCBITaxon:9913			
+OMIA:720	Solcava	NCBITaxon:9940			
+OMIA:721	Carthusian	NCBITaxon:9685			
+OMIA:723	White Holland	NCBITaxon:9103			
+OMIA:724	Hampshire Down	NCBITaxon:9940			
+OMIA:728	Schwarzkoepfiges Fleischschaf	NCBITaxon:9940			
+OMIA:73	Holstein Friesian	NCBITaxon:9913			
+OMIA:732	Brindled Czech	NCBITaxon:9823			
+OMIA:733	Large White Czech	NCBITaxon:9823			
+OMIA:735	Tukidale	NCBITaxon:9940			
+OMIA:736	Wurttemberg Brown	NCBITaxon:9913			
+OMIA:737	Bukedi	NCBITaxon:9913			
+OMIA:738	Shorthorn Zebu	NCBITaxon:9913			
+OMIA:739	Yellow hill	NCBITaxon:9913			
+OMIA:741	Welsh Wolfhound	NCBITaxon:9615			
+OMIA:742	Toy Terrier	NCBITaxon:9615			
+OMIA:750	Ovis aries	NCBITaxon:9939			
+OMIA:751	cow	NCBITaxon:9913			
+OMIA:752	cattle	NCBITaxon:9913			
+OMIA:753	Piemontese	NCBITaxon:9913			
+OMIA:755	Holstein-Friesian	NCBITaxon:9913			
+OMIA:756	Indian Holstein	NCBITaxon:9913			
+OMIA:757	Polish Holstein-Friesian cattle	NCBITaxon:9913			
+OMIA:763	Navasota (mixed breed)	NCBITaxon:9615			
+OMIA:768	French bull terrier	NCBITaxon:9615			
+OMIA:789	Dahe	NCBITaxon:9823			
+OMIA:792	Old Danish Pointing Dog	NCBITaxon:9615			
+OMIA:796	Trait Breton	NCBITaxon:9796			
+OMIA:797	Trait Comtois	NCBITaxon:9796			
+OMIA:81	Sardi	NCBITaxon:9940			
+OMIA:82	Beni Guil	NCBITaxon:9940			
+OMIA:825	Embrapa	NCBITaxon:9940			
+OMIA:827	Muscovy	NCBITaxon:8839			
+OMIA:83	D'man	NCBITaxon:9940			
+OMIA:830	Australian stumpy tail cattle dog	NCBITaxon:9615			
+OMIA:837	Silky/Silkie	NCBITaxon:9031			
+OMIA:840	Finnish Yorkshire	NCBITaxon:9823			
+OMIA:847	American saddleback	NCBITaxon:9796			
+OMIA:849	German Blackface	NCBITaxon:9940			
+OMIA:850	German Fleckvieh	NCBITaxon:9913			
+OMIA:854	Kentucky Mountain Saddle	NCBITaxon:9796			
+OMIA:855	Franches-Montagnes	NCBITaxon:9796			
+OMIA:857	Rotes H̦henvieh	NCBITaxon:9913			
+OMIA:860	Dongxiang	NCBITaxon:9031			
+OMIA:861	Rongchang	NCBITaxon:9823			
+OMIA:862	Ayam Cemani	NCBITaxon:9031			
+OMIA:863	Black H'Mong	NCBITaxon:9031			
+OMIA:864	Svarth̦na (ohusl�_n-Dals Svarth̦na)	NCBITaxon:9031			
+OMIA:866	Japanese domestic	NCBITaxon:9685			
+OMIA:869	Irish Cambridge	NCBITaxon:9940			
+OMIA:874	Wessex Saddleback	NCBITaxon:9823			
+OMIA:875	Bavarian Landschwein	NCBITaxon:9823			
+OMIA:876	crested Polish	NCBITaxon:9031			
+OMIA:877	Swiss Alpine	NCBITaxon:9940			
+OMIA:878	Cameroon	NCBITaxon:9940			
+OMIA:88	Black Pied	NCBITaxon:9913			
+OMIA:881	Alaskan sled dog	NCBITaxon:9615			
+OMIA:882	Olkuska	NCBITaxon:9940			
+OMIA:889	Churra	NCBITaxon:9940			
+OMIA:890	Swedish Landrace	NCBITaxon:9940			
+OMIA:891	Borderdale	NCBITaxon:9940			
+OMIA:895	Mapuche	NCBITaxon:9031			
+OMIA:896	Lushi	NCBITaxon:9031			
+OMIA:897	Cream Legbar	NCBITaxon:9031			
+OMIA:9	Sebright Bantam	NCBITaxon:9031			
+OMIA:90	Blue Point Siamese	NCBITaxon:9685			
+OMIA:901	Datong	NCBITaxon:30521			
+OMIA:905	Northern Finncattle	NCBITaxon:9913			
+OMIA:909	Kankrej	NCBITaxon:9915			
+OMIA:911	Nordic Red	NCBITaxon:9913			
+OMIA:912	Cabugi	NCBITaxon:9940			
+OMIA:913	Zamorano-Leon̩s	NCBITaxon:9793			
+OMIA:914	Minohiki	NCBITaxon:9031			
+OMIA:915	Nordic Holstein	NCBITaxon:9913			
+OMIA:919	Carora	NCBITaxon:9913			
+OMIA:922	Silky fantail	NCBITaxon:8932			
+OMIA:923	Finnish Ayrshire	NCBITaxon:9913			
+OMIA:928	Shaziling	NCBITaxon:9823			
+OMIA:935	Liangshan	NCBITaxon:9823			
+OMIA:94	White	NCBITaxon:9823			
+OMIA:940	Swedish Red	NCBITaxon:9913			
+OMIA:941	Miniature Highland	NCBITaxon:9913			
+OMIA:942	Italian draft horse	NCBITaxon:9796			
+OMIA:946	Poitou	NCBITaxon:9793			
+OMIA:947	American Paint Horse	NCBITaxon:9796			
+OMIA:958	Tunisian Barbarine	NCBITaxon:9940			
+OMIA:961	Heideterrier	NCBITaxon:9615			
+OMIA:962	Red Holstein Friesian	NCBITaxon:9913			
+OMIA:966	Sphinx	NCBITaxon:9685			
+OMIA:968	Menorca	NCBITaxon:9796			
+OMIA:969	Anyi tile-like gray	NCBITaxon:9031			
+OMIA:971	Beijing fatty	NCBITaxon:9031			
+OMIA:972	Muchuan	NCBITaxon:9031			
+OMIA:974	Numerous breeds	NCBITaxon:9913			
+OMIA:975	Mongolian	NCBITaxon:30521			
+OMIA:976	Curly	NCBITaxon:9796			
+OMIA:977	White Dorper	NCBITaxon:9940			
+OMIA:978	Australian Working Kelpie	NCBITaxon:9615			
+OMIA:979	Italian Trotter	NCBITaxon:9796			
+OMIA:98	N'Dama	NCBITaxon:9913			
+OMIA:985	Gasconne	NCBITaxon:9913			
+OMIA:986	Parthenaise	NCBITaxon:9913			
+OMIA:989	Quv (quiver) strain	NCBITaxon:9091			
+OMIA:991	Norwegian White	NCBITaxon:9940			
+OMIA:992	UC Davis lines	NCBITaxon:9031			
+OMIA:993	"Storrs, Connecticut (low line)"	NCBITaxon:9031			
+OMIA:994	Israeli experimental line	NCBITaxon:9031			
+OMIA:995	New Hampshire	NCBITaxon:10042			
+OMIA:996	Alaska	NCBITaxon:10042			
+OMIA:997	Swamp	NCBITaxon:89462			
+OMIA:999	American hairless	NCBITaxon:9615			
+OMIA:177	Afrikaner	NCBITaxon:9913	LBO:0000005		
+OMIA:27	Afikander	NCBITaxon:9913	LBO:0000005		
+OMIA:79	Afrikander	NCBITaxon:9913	LBO:0000005		
+OMIA:527	Angeln	NCBITaxon:9913	LBO:0000016		
+OMIA:44	Angus	NCBITaxon:9913	LBO:0000017		
+OMIA:421	Ankole	NCBITaxon:9913	LBO:0000018		
+OMIA:648	Criollo	NCBITaxon:9913	LBO:0000020		
+OMIA:472	Asturiana	NCBITaxon:9913	LBO:0000022		
+OMIA:361	Australian Friesian Sahiwal	NCBITaxon:9913	LBO:0000026		
+OMIA:400	Australian Milking Zebu	NCBITaxon:9913	LBO:0000028		
+OMIA:105	Ayrshire	NCBITaxon:9913	LBO:0000029		
+OMIA:474	Baladi	NCBITaxon:9913	LBO:0000032		
+OMIA:49	Belgian Blue	NCBITaxon:9913	LBO:0000042		
+OMIA:103	Belmont Red	NCBITaxon:9913	LBO:0000045		
+OMIA:853	Belted Galloway	NCBITaxon:9913	LBO:0000046		
+OMIA:1114	Spanish Berrenda en negro	NCBITaxon:9913	LBO:0000048		
+OMIA:571	Blacksided Trondheims	NCBITaxon:9913	LBO:0000050		
+OMIA:97	Blonde d'Aquitaine	NCBITaxon:9913	LBO:0000053		
+OMIA:119	Bonsmara	NCBITaxon:9913	LBO:0000054		
+OMIA:99	Boran	NCBITaxon:9913	LBO:0000055		
+OMIA:169	Braford	NCBITaxon:9913	LBO:0000057		
+OMIA:24	Brahman	NCBITaxon:9913	LBO:0000058		
+OMIA:449	Brangus	NCBITaxon:9913	LBO:0000060		
+OMIA:59	Braunvieh	NCBITaxon:9913	LBO:0000061		
+OMIA:128	White British	NCBITaxon:9913	LBO:0000062		
+OMIA:106	Brown Swiss	NCBITaxon:9913	LBO:0000063		
+OMIA:717	Busa	NCBITaxon:9913	LBO:0000064		
+OMIA:508	Canchim	NCBITaxon:9913	LBO:0000068		
+OMIA:19	Charolais	NCBITaxon:9913	LBO:0000073		
+OMIA:211	Chianina	NCBITaxon:9913	LBO:0000074		
+OMIA:365	Dangi	NCBITaxon:9913	LBO:0000083		
+OMIA:185	Devon	NCBITaxon:9913	LBO:0000087		
+OMIA:36	Dexter	NCBITaxon:9913	LBO:0000088		
+OMIA:644	Droughtmaster	NCBITaxon:9913	LBO:0000091		
+OMIA:600	Dutch Belted	NCBITaxon:9913	LBO:0000093		
+OMIA:535	Longhorn	NCBITaxon:9913	LBO:0000097		
+OMIA:1116	Evol̬ner	NCBITaxon:9913	LBO:0000099		
+OMIA:18	Galloway	NCBITaxon:9913	LBO:0000106		
+OMIA:61	Gelbvieh	NCBITaxon:9913	LBO:0000110		
+OMIA:1087	German Angus	NCBITaxon:9913	LBO:0000111		
+OMIA:65	Gir	NCBITaxon:9913	LBO:0000113		
+OMIA:670	Gudali	NCBITaxon:9913	LBO:0000120		
+OMIA:87	Guernsey	NCBITaxon:9913	LBO:0000121		
+OMIA:441	Guzera	NCBITaxon:9913	LBO:0000122		
+OMIA:581	Guzerat	NCBITaxon:9913	LBO:0000122		
+OMIA:166	Hariana	NCBITaxon:9913	LBO:0000124		
+OMIA:17	Hereford	NCBITaxon:9913	LBO:0000127		
+OMIA:1000	Highland	NCBITaxon:9913	LBO:0000129		
+OMIA:205	Hinterwalder	NCBITaxon:9913	LBO:0000130		
+OMIA:86	Holstein	NCBITaxon:9913	LBO:0000132		
+OMIA:521	Grey Hungarian	NCBITaxon:9913	LBO:0000134		
+OMIA:46	Jersey	NCBITaxon:9913	LBO:0000146		
+OMIA:101	Kerry	NCBITaxon:9913	LBO:0000153		
+OMIA:363	Khillar	NCBITaxon:9913	LBO:0000155		
+OMIA:734	Kholmogor	NCBITaxon:9913	LBO:0000156		
+OMIA:645	Brown Latvian	NCBITaxon:9913	LBO:0000161		
+OMIA:58	Limousin	NCBITaxon:9913	LBO:0000162		
+OMIA:96	Maine Anjou	NCBITaxon:9913	LBO:0000170		
+OMIA:362	Malvi	NCBITaxon:9913	LBO:0000171		
+OMIA:580	Marchigiana	NCBITaxon:9913	LBO:0000173		
+OMIA:529	Maremma	NCBITaxon:9913	LBO:0000174		
+OMIA:160	Mashona	NCBITaxon:9913	LBO:0000176		
+OMIA:122	Meuse Rhine Yssel	NCBITaxon:9913	LBO:0000179		
+OMIA:107	Dairy Shorthorn	NCBITaxon:9913	LBO:0000182		
+OMIA:419	Modica	NCBITaxon:9913	LBO:0000184		
+OMIA:162	Montbeliarde	NCBITaxon:9913	LBO:0000186		
+OMIA:315	Murboden	NCBITaxon:9913	LBO:0000188		
+OMIA:326	Murray Grey	NCBITaxon:9913	LBO:0000189		
+OMIA:713	Muturu	NCBITaxon:9913	LBO:0000190		
+OMIA:269	N'dama	NCBITaxon:9913	LBO:0000193		
+OMIA:121	Nguni	NCBITaxon:9913	LBO:0000195		
+OMIA:618	Normande	NCBITaxon:9913	LBO:0000197		
+OMIA:541	Polish Red	NCBITaxon:9913	LBO:0000205		
+OMIA:95	Polled Hereford	NCBITaxon:9913	LBO:0000206		
+OMIA:48	Piedmontese	NCBITaxon:9913	LBO:0000208		
+OMIA:60	Pinzgauer	NCBITaxon:9913	LBO:0000209		
+OMIA:551	Rathi	NCBITaxon:9913	LBO:0000213		
+OMIA:176	Red Angus	NCBITaxon:9913	LBO:0000214		
+OMIA:57	Red Poll	NCBITaxon:9913	LBO:0000218		
+OMIA:586	Red Sindhi	NCBITaxon:9913	LBO:0000220		
+OMIA:437	Romagnola	NCBITaxon:9913	LBO:0000225		
+OMIA:920	Romosinuano	NCBITaxon:9913	LBO:0000226		
+OMIA:302	Sahiwal	NCBITaxon:9913	LBO:0000229		
+OMIA:257	Salers	NCBITaxon:9913	LBO:0000230		
+OMIA:120	Santa Gertrudis	NCBITaxon:9913	LBO:0000234		
+OMIA:92	Senepol	NCBITaxon:9913	LBO:0000237		
+OMIA:76	Shorthorn	NCBITaxon:9913	LBO:0000240		
+OMIA:3	Simmental	NCBITaxon:9913	LBO:0000243		
+OMIA:1112	Slovenian Cika	NCBITaxon:9913	LBO:0000245		
+OMIA:118	South Devon	NCBITaxon:9913	LBO:0000246		
+OMIA:263	Tarentaise	NCBITaxon:9913	LBO:0000251		
+OMIA:405	Telemark	NCBITaxon:9913	LBO:0000252		
+OMIA:158	Tuli	NCBITaxon:9913	LBO:0000257		
+OMIA:746	Grey Steppe	NCBITaxon:9913	LBO:0000258		
+OMIA:33	Waygu	NCBITaxon:9913	LBO:0000267		
+OMIA:340	Ancona	NCBITaxon:9031	LBO:0000273		
+OMIA:1066	Appenzeller Barthuhn	NCBITaxon:9031	LBO:0000275		
+OMIA:828	Araucana	NCBITaxon:9031	LBO:0000277		
+OMIA:383	Australorp	NCBITaxon:9031	LBO:0000279		
+OMIA:272	Cornish	NCBITaxon:9031	LBO:0000290		
+OMIA:898	Crevecoeur	NCBITaxon:9031	LBO:0000291		
+OMIA:417	Jersey Giant	NCBITaxon:9031	LBO:0000307		
+OMIA:1139	Lakenvelder	NCBITaxon:9913	LBO:0000312		
+OMIA:279	Leghorn	NCBITaxon:9031	LBO:0000315		
+OMIA:1062	Transylvanian naked neck	NCBITaxon:9031	LBO:0000320		
+OMIA:332	New Hampshire	NCBITaxon:9031	LBO:0000321		
+OMIA:1093	Orpington	NCBITaxon:9031	LBO:0000323		
+OMIA:667	Plymouth Rock	NCBITaxon:9031	LBO:0000324		
+OMIA:280	Rhode Island Red	NCBITaxon:9031	LBO:0000327		
+OMIA:647	Sussex	NCBITaxon:9031	LBO:0000333		
+OMIA:1092	Wyandotte	NCBITaxon:9031	LBO:0000336		
+OMIA:115	Yorkshire	NCBITaxon:9823	LBO:0000338		
+OMIA:435	Great Yorkshire	NCBITaxon:9823	LBO:0000338		
+OMIA:439	Angeln Saddleback	NCBITaxon:9823	LBO:0000339		
+OMIA:398	Berkshire	NCBITaxon:9823	LBO:0000348		
+OMIA:583	Bulgarian Improved White	NCBITaxon:9823	LBO:0000352		
+OMIA:321	Chester White	NCBITaxon:9823	LBO:0000354		
+OMIA:93	Duroc	NCBITaxon:9823	LBO:0000358		
+OMIA:428	Fengjing	NCBITaxon:9823	LBO:0000360		
+OMIA:466	French Landrace	NCBITaxon:9823	LBO:0000361		
+OMIA:790	Kele	NCBITaxon:9823	LBO:0000372		
+OMIA:152	Lacombe	NCBITaxon:9823	LBO:0000375		
+OMIA:568	Large Black	NCBITaxon:9823	LBO:0000376		
+OMIA:51	Large White	NCBITaxon:9823	LBO:0000378		
+OMIA:1169	Mangalitza	NCBITaxon:9823	LBO:0000380		
+OMIA:52	Meishan	NCBITaxon:9823	LBO:0000381		
+OMIA:730	Middle Yorkshire	NCBITaxon:9823	LBO:0000382		
+OMIA:429	Minzhu	NCBITaxon:9823	LBO:0000383		
+OMIA:108	Pietrain	NCBITaxon:9823	LBO:0000395		
+OMIA:613	Poland China	NCBITaxon:9823	LBO:0000395		
+OMIA:451	Saddleback	NCBITaxon:9823	LBO:0000398		
+OMIA:266	Tamworth	NCBITaxon:9823	LBO:0000402		
+OMIA:791	Chinese-Tibetan	NCBITaxon:9823	LBO:0000404		
+OMIA:146	Welsh	NCBITaxon:9823	LBO:0000407		
+OMIA:216	Alai Fat Rumped	NCBITaxon:9940	LBO:0000414		
+OMIA:1128	Altay	NCBITaxon:9940	LBO:0000419		
+OMIA:67	Merino d'Arles	NCBITaxon:9940	LBO:0000425		
+OMIA:43	Awassi	NCBITaxon:9940	LBO:0000428		
+OMIA:127	Barbados	NCBITaxon:9940	LBO:0000433		
+OMIA:295	Blue Faced Maine	NCBITaxon:9940	LBO:0000442		
+OMIA:432	Blue Faced Leicester	NCBITaxon:9940	LBO:0000443		
+OMIA:1038	Booroola	NCBITaxon:9940	LBO:0000445		
+OMIA:359	Border Leicester	NCBITaxon:9940	LBO:0000446		
+OMIA:226	Brazilian Somali	NCBITaxon:9940	LBO:0000450		
+OMIA:191	Cheviot	NCBITaxon:9940	LBO:0000461		
+OMIA:499	Clun Forest	NCBITaxon:9940	LBO:0000464		
+OMIA:354	Columbia	NCBITaxon:9940	LBO:0000466		
+OMIA:148	Coopworth	NCBITaxon:9940	LBO:0000469		
+OMIA:53	Corriedale	NCBITaxon:9940	LBO:0000471		
+OMIA:681	Cotswold	NCBITaxon:9940	LBO:0000472		
+OMIA:189	Dala	NCBITaxon:9940	LBO:0000474		
+OMIA:938	Damara	NCBITaxon:9940	LBO:0000478		
+OMIA:1145	Danish Landrace	NCBITaxon:9823	LBO:0000479		
+OMIA:56	Dorset	NCBITaxon:9940	LBO:0000488		
+OMIA:694	Dorset Down	NCBITaxon:9940	LBO:0000489		
+OMIA:111	Finnsheep	NCBITaxon:9940	LBO:0000495		
+OMIA:627	German Blackheaded Mutton	NCBITaxon:9940	LBO:0000501		
+OMIA:628	German Whiteheaded Mutton	NCBITaxon:9940	LBO:0000504		
+OMIA:247	Gotland	NCBITaxon:9940	LBO:0000507		
+OMIA:566	Gromark	NCBITaxon:9940	LBO:0000509		
+OMIA:1105	Gute	NCBITaxon:9940	LBO:0000511		
+OMIA:175	Hampshire	NCBITaxon:9940	LBO:0000512		
+OMIA:260	Ile de France	NCBITaxon:9940	LBO:0000524		
+OMIA:867	Jacob	NCBITaxon:9940	LBO:0000526		
+OMIA:102	Karakul	NCBITaxon:9940	LBO:0000531		
+OMIA:183	Langhe	NCBITaxon:9940	LBO:0000538		
+OMIA:192	Lincoln	NCBITaxon:9940	LBO:0000542		
+OMIA:1109	Massese	NCBITaxon:9940	LBO:0000553		
+OMIA:374	Merinolandschaf	NCBITaxon:9940	LBO:0000557		
+OMIA:545	Montadale	NCBITaxon:9940	LBO:0000559		
+OMIA:227	Morada Nova	NCBITaxon:9940	LBO:0000560		
+OMIA:939	Navajo-Churro	NCBITaxon:9940	LBO:0000562		
+OMIA:425	Nellore	NCBITaxon:9940	LBO:0000563		
+OMIA:259	Oxford	NCBITaxon:9940	LBO:0000571		
+OMIA:165	Perendale	NCBITaxon:9940	LBO:0000575		
+OMIA:54	Polwarth	NCBITaxon:9940	LBO:0000579		
+OMIA:418	Polypay	NCBITaxon:9940	LBO:0000580		
+OMIA:547	Priangan	NCBITaxon:9940	LBO:0000583		
+OMIA:666	Racka	NCBITaxon:9940	LBO:0000590		
+OMIA:26	Rambouillet	NCBITaxon:9940	LBO:0000591		
+OMIA:748	Rambouillet	NCBITaxon:9939	LBO:0000591		
+OMIA:749	 Rambouillet	NCBITaxon:9939	LBO:0000591		
+OMIA:883	Rasa Aragonesa	NCBITaxon:9940	LBO:0000592		
+OMIA:727	Rhoenschaf	NCBITaxon:9940	LBO:0000595		
+OMIA:47	Romanov	NCBITaxon:9940	LBO:0000597		
+OMIA:55	Romney Marsh	NCBITaxon:9940	LBO:0000598		
+OMIA:680	Romney Marsh (Kent)	NCBITaxon:9940	LBO:0000598		
+OMIA:190	Rygja	NCBITaxon:9940	LBO:0000605		
+OMIA:1039	Brazilian Santa In̻s	NCBITaxon:9940	LBO:0000609		
+OMIA:228	Santa Ines	NCBITaxon:9940	LBO:0000609		
+OMIA:531	Scottish Blackface	NCBITaxon:9940	LBO:0000612		
+OMIA:140	Shropshire	NCBITaxon:9940	LBO:0000614		
+OMIA:729	Skudde	NCBITaxon:9940	LBO:0000616		
+OMIA:743	Soay	NCBITaxon:9940	LBO:0000617		
+OMIA:222	Southdown	NCBITaxon:9940	LBO:0000624		
+OMIA:126	St Croix	NCBITaxon:9940	LBO:0000628		
+OMIA:124	Suffolk	NCBITaxon:9940	LBO:0000632		
+OMIA:433	Swaledale	NCBITaxon:9940	LBO:0000634		
+OMIA:125	Targhee	NCBITaxon:9940	LBO:0000638		
+OMIA:137	Texel	NCBITaxon:9940	LBO:0000640		
+OMIA:324	Vendeen	NCBITaxon:9940	LBO:0000654		
+OMIA:459	Mouton Vendeen	NCBITaxon:9940	LBO:0000654		
+OMIA:193	Welsh Mountain	NCBITaxon:9940	LBO:0000660		
+OMIA:497	White Karaman	NCBITaxon:9940	LBO:0000665		
+OMIA:984	Chinese Erhualian	NCBITaxon:9823	LBO:0000691		
+OMIA:74	Landrace	NCBITaxon:9823	LBO:0000692		
+OMIA:410	Altamurana	NCBITaxon:9940	LBO:0000693		
+OMIA:1041	Bashkir Curly Horse	NCBITaxon:9796	LBO:0000739		
+OMIA:15	Belgian	NCBITaxon:9796	LBO:0000741		
+OMIA:655	Colorado Ranger	NCBITaxon:9796	LBO:0000761		
+OMIA:478	Marwari	NCBITaxon:9940	LBO:0000833		
+OMIA:1078	Miniature	NCBITaxon:9796	LBO:0000837		
+OMIA:1089	Missouri Foxtrotter	NCBITaxon:9796	LBO:0000839		
+OMIA:1049	Peruvian Paso	NCBITaxon:9796	LBO:0000866		
+OMIA:1046	Pony of the Americas	NCBITaxon:9796	LBO:0000872		
+OMIA:1007	Old-Tori	NCBITaxon:9796	LBO:0000912		
+OMIA:934	Pezzata Rossa	NCBITaxon:9913	LBO:0000934		
+OMIA:167	Fleckvieh	NCBITaxon:9913	LBO:0000941		
+OMIA:884	Belclare	NCBITaxon:9940	LBO:0000951		
+OMIA:78	Alpine	NCBITaxon:9925	LBO:0000955		
+OMIA:1	Nubian	NCBITaxon:9925	LBO:0000958		
+OMIA:431	Anglo Nubian	NCBITaxon:9925	LBO:0000958		
+OMIA:1147	Appenzell	NCBITaxon:9925	LBO:0000960		
+OMIA:262	Barbari	NCBITaxon:9925	LBO:0000964		
+OMIA:503	Beetal	NCBITaxon:9925	LBO:0000965		
+OMIA:561	Boer	NCBITaxon:9925	LBO:0000969		
+OMIA:1150	St. Gallen Booted	NCBITaxon:9925	LBO:0000970		
+OMIA:1134	Dera Din Panah	NCBITaxon:9925	LBO:0000976		
+OMIA:988	Dutch Landrace	NCBITaxon:9925	LBO:0000980		
+OMIA:1148	Grisons Striped	NCBITaxon:9925	LBO:0000984		
+OMIA:1136	Kamori	NCBITaxon:9925	LBO:0000997		
+OMIA:1135	Nachi	NCBITaxon:9925	LBO:0001005		
+OMIA:1151	Peacock	NCBITaxon:9925	LBO:0001009		
+OMIA:716	Sahelian	NCBITaxon:9925	LBO:0001017		
+OMIA:77	Saanen	NCBITaxon:9925	LBO:0001017		
+OMIA:284	Toggenburg	NCBITaxon:9925	LBO:0001026		
+OMIA:924	Valais Blacknecked Goat	NCBITaxon:9925	LBO:0001027		
+OMIA:856	Murrah	NCBITaxon:89462	LBO:0001049		
+OMIA:679	White leghorn	NCBITaxon:9031	LBO:0001061		
+OMIA:338	Assaf	NCBITaxon:9940	LBO:0001062		
+OMIA:204	Vorderwald	NCBITaxon:9913	LBO:0001063		
+OMIA:40	Merino	NCBITaxon:9940	LBO:0001067		
+OMIA:277	Blackhead Persian	NCBITaxon:9940	LBO:0001069		
+OMIA:904	Lacaune	NCBITaxon:9940	LBO:0001072		
+OMIA:990	Valle del Belice	NCBITaxon:9940	LBO:0001075		
+OMIA:253	Whiteheaded Kazakh	NCBITaxon:9913	LBO:0001078		
+OMIA:218	Schwarzbunt	NCBITaxon:9913	LBO:0001079		
+OMIA:281	Muzaffarnagari	NCBITaxon:9940	LBO:0001085		
+OMIA:967	Romane	NCBITaxon:9940	LBO:0001090		
