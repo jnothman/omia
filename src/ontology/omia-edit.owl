@@ -30,5 +30,13 @@ Declaration(AnnotationProperty(dcterms:license))
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/OMIA_00000000> "root node"@en)
 
+# Class: <http://purl.obolibrary.org/obo/OMIA_195> (Abyssinian)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OMIA_195> <http://purl.obolibrary.org/obo/NCBITaxon_9685>)
+
+# Class: <http://purl.obolibrary.org/obo/OMIA_320> (Devon Rex)
+
+SubClassOf(<http://purl.obolibrary.org/obo/OMIA_320> <http://purl.obolibrary.org/obo/NCBITaxon_9685>)
+
 
 )
