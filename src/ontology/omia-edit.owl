@@ -1,36 +1,34 @@
-
 Prefix(:=<http://purl.obolibrary.org/obo/omia.owl#>)
+Prefix(dce:=<http://purl.org/dc/elements/1.1/>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
 Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
 Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
 Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
-Prefix(dce:=<http://purl.org/dc/elements/1.1/>)
 Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/omia.owl>
-
-Import(<http://purl.obolibrary.org/obo/omia/imports/ro_import.owl>)
-Import(<http://purl.obolibrary.org/obo/omia/imports/ncbitaxon_import.owl>)
-
 Import(<http://purl.obolibrary.org/obo/omia/components/all_templates.owl>)
-
+Import(<http://purl.obolibrary.org/obo/omia/imports/ncbitaxon_import.owl>)
+Import(<http://purl.obolibrary.org/obo/omia/imports/ro_import.owl>)
+Annotation(dce:description "This is a desription")
 Annotation(dce:title "Online Inheritance of Animals Ontology")
 Annotation(dcterms:license <https://creativecommons.org/licenses/unspecified>)
-Annotation(dce:description "None")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/OMIA_00000000>))
+Declaration(AnnotationProperty(dce:description))
+Declaration(AnnotationProperty(dce:title))
+Declaration(AnnotationProperty(dcterms:license))
 
 
 ############################
 #   Classes
 ############################
 
-# Class: <http://purl.obolibrary.org/obo/OMIA_00000000>
+# Class: <http://purl.obolibrary.org/obo/OMIA_00000000> (root node)
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/OMIA_00000000> "root node"@en)
 
 
 )
-
